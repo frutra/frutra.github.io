@@ -1,0 +1,2458 @@
+{
+  "settings": {
+    "currentPage": "Überblick.html",
+    "name": "frutra",
+    "theme": {
+      "name": "mobirise3",
+      "title": "Mobirise 3",
+      "styling": {
+        "primaryColor": "#a38f84",
+        "secondaryColor": "#bfcecb",
+        "successColor": "#90a878",
+        "infoColor": "#7e9b9f",
+        "warningColor": "#f3c649",
+        "dangerColor": "#f28281",
+        "titleFont": "Open Sans",
+        "subtitleFont": "Open Sans",
+        "textFont": "Open Sans",
+        "isRoundedButtons": true,
+        "isAnimatedOnScroll": true,
+        "isScrollToTopButton": true,
+        "isRtl": false
+      }
+    },
+    "versionFirst": "3.12.1",
+    "uniqCompNum": 111,
+    "versionPublish": "3.12.1",
+    "favicon": "",
+    "noImageResize": "",
+    "google-analytics": "",
+    "cookiesAlert": "We use cookies to give you the best experience. Read our <a href='privacy.html'>cookie policy</a>."
+  },
+  "pages": {
+    "index.html": {
+      "settings": {
+        "main": true,
+        "title": "",
+        "meta_descr": "",
+        "header_custom": "",
+        "footer_custom": "",
+        "html_before": ""
+      },
+      "components": [
+        {
+          "_styles": {
+            ".hide-buttons .nav-btn": {
+              "display": "none !important"
+            },
+            ".navbar-caption": {
+              "color": "#ffffff"
+            },
+            ".navbar-toggler": {
+              "color": "#b8312f"
+            },
+            ".link, .dropdown-item": {
+              "color": "#b8312f",
+              "googleLink": "https://fonts.googleapis.com/css?family=Open+Sans:400,300,700",
+              "font-family": "'Open Sans', sans-serif"
+            },
+            ".link": {
+              "font-size": "1rem"
+            },
+            ".dropdown-item, .nav-dropdown-sm .link": {
+              "font-size": "1.083rem"
+            },
+            ".link:hover, .dropdown-item:hover, .link:focus, .dropdown-item:focus": {
+              "color": "@primaryColor"
+            },
+            ".link[aria-expanded=\"true\"], .dropdown-menu": {
+              "background": "#e6e6e6"
+            },
+            ".nav-dropdown-sm .link:focus, .nav-dropdown-sm .link:hover, .nav-dropdown-sm .dropdown-item:focus, .nav-dropdown-sm .dropdown-item:hover": {
+              "background": "#f7f7f7!important"
+            },
+            ".navbar, .nav-dropdown-sm, .nav-dropdown-sm .link[aria-expanded=\"true\"], .nav-dropdown-sm .dropdown-menu": {
+              "background": "#ffffff"
+            },
+            ".bg-color.transparent .link": {
+              "color": "#b8312f",
+              "transition": "none"
+            },
+            ".bg-color.transparent.opened .link": {
+              "transition": "color .2s ease-in-out"
+            },
+            ".bg-color.transparent.opened .link:hover, .bg-color.transparent.opened .link:focus": {
+              "color": "@primaryColor"
+            },
+            ".link[aria-expanded=\"true\"], .dropdown-item[aria-expanded=\"true\"]": {
+              "color": "#a38f84!important"
+            },
+            "&.mbr-navbar--stuck .mbr-navbar__section": {
+              "background": "#2c2c2c"
+            },
+            ".mbr-navbar__section": {},
+            ".mbr-navbar__hamburger": {
+              "color": "#ffffff"
+            },
+            ".close-icon::before, .close-icon::after": {
+              "background-color": "#b8312f"
+            }
+          },
+          "_name": "menu",
+          "_anchor": "menu-0",
+          "_params": {
+            "bgColor": "#ffffff",
+            "fontSize": "1",
+            "fontName": {
+              "name": "Open Sans",
+              "url": "https://fonts.googleapis.com/css?family=Open+Sans:400,300,700",
+              "css": "'Open Sans', sans-serif"
+            },
+            "fontColor": "#b8312f",
+            "fontHoverColor": "@primaryColor",
+            "transparent": false,
+            "sticky": false,
+            "logo": true,
+            "showBrand": false,
+            "collapsed": true,
+            "hideButtons": true
+          },
+          "logo": {
+            "image": {
+              "active": true,
+              "src": "@PROJECT_PATH@/assets/images/frutra-logo-transparent-207x128.png",
+              "height": 128,
+              "alt": "Mobirise",
+              "link": "index.html",
+              "title": "",
+              "linkInNewWindow": false
+            },
+            "iconFont": {
+              "class": "mbr-iconfont mbr-iconfont-menu",
+              "link": "https://mobirise.com",
+              "size": 0
+            }
+          },
+          "brand": "<a class=\"navbar-caption\" data-app-btn=\"true\" data-app-selector=\".navbar-caption\" href=\"https://mobirise.com\" data-app-placeholder=\"Type Brand Name\" data-toolbar=\"-mbrBtnMove,-mbrBtnAdd,-mbrBtnRemove,mbrColor\"></a>",
+          "items": "<li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"index.html\">Home</a></li><li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"Überblick.html\">Überblick</a></li><li class=\"nav-item dropdown\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"Hilfe\" aria-expanded=\"false\">Hilfe</a></li><li class=\"nav-item dropdown\"><a data-app-btn=\"true\" class=\"nav-link link dropdown-toggle\" data-toggle=\"dropdown-submenu\" href=\"https://mobirise.com/\" aria-expanded=\"false\">Rechtliches</a><div class=\"dropdown-menu\"><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"AGB.html\">AGB</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"Datenschutzerklärung.html\">Datenschutzerklärung</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"Gebührenordnung.html\">Gebührenordnung</a></div></li><li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"Nutzer.html\" aria-expanded=\"false\">Nutzer</a></li><li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"Impressum.html\" aria-expanded=\"false\">Impressum</a></li><li class=\"nav-item nav-btn\"><a data-app-btn=\"true\" data-button=\"\" data-app-selector=\".btn\" class=\"nav-link btn btn-white btn-white-outline\" href=\"https://mobirise.com/\">DOWNLOAD</a></li>"
+        },
+        {
+          "_name": "header1",
+          "_afterNavbarItem": ".mbr-section > .mbr-box__magnet",
+          "_styles": {
+            ".mbr-section-title": {
+              "font-family": "'Open Sans', sans-serif",
+              "googleLink": "https://fonts.googleapis.com/css?family=Open+Sans:400,300,700"
+            },
+            ".mbr-section-lead": {
+              "font-family": "'Open Sans', sans-serif",
+              "googleLink": "https://fonts.googleapis.com/css?family=Open+Sans:400,300,700"
+            },
+            ".mbr-section-lead B": {
+              "color": "#ffffff"
+            }
+          },
+          "_anchor": "header1-1",
+          "_params": {
+            "parallax": true,
+            "bgImageRadio": true,
+            "showArrow": true,
+            "bgImage": "@PROJECT_PATH@/assets/images/500463350-2000x1332.png",
+            "bgColor": "#a07e49",
+            "bgColorRadio": false,
+            "bgVideo": {
+              "url": "https://www.youtube.com/watch?v=uNCr7NdOJgw"
+            },
+            "bgVideoRadio": false,
+            "overlay": true,
+            "overlayOpacity": "0.5",
+            "overlayColor": "#000000",
+            "contentAlign": "center",
+            "showTitle": true,
+            "showText": true,
+            "showButtons": true
+          },
+          "title": "Herzlich willkommen!",
+          "text": "frutra ist die neue B2B-Handelsplattform für die Fruchtsaftbranche. Hier finden die Fruchtsaftkeltereien in Deutschland und bald weltweit einen geschützten Marktplatz, der nur ihnen offensteht. Press- und Abfüllbetriebe kommen ohne Umwege zusammen: direkt, transparent und fair.&nbsp;",
+          "buttons": "<a data-app-btn=\"true\" class=\"btn btn-lg btn-primary\" href=\"http://master-7rqtwti-zitsragrj4b7u.eu.platform.sh/de\" data-toolbar=\"-mbrBtnMove\" target=\"_blank\">Anmelden</a> <a data-app-btn=\"true\" class=\"btn btn-lg btn-primary\" href=\"http://master-7rqtwti-zitsragrj4b7u.eu.platform.sh/de/user/register\" data-toolbar=\"-mbrBtnMove\" target=\"_blank\">Registrieren</a>  "
+        },
+        {
+          "_tags": [
+            "Theme"
+          ],
+          "_name": "footer1",
+          "_styles": {
+            "SPAN": {
+              "color": "#ffffff"
+            }
+          },
+          "_anchor": "footer1-c",
+          "_params": {
+            "paddingTop": 2,
+            "paddingBottom": 2,
+            "bgImageRadio": false,
+            "parallax": true,
+            "bgImage": "@THEME_PATH@/components/_images/jumbotron.jpg",
+            "bgColor": "#ffffff",
+            "bgColorRadio": true,
+            "overlay": true,
+            "overlayOpacity": 0.8,
+            "overlayColor": "#444444"
+          },
+          "text": "<span style=\"font-size: 0.8125rem; line-height: 1.5; background-color: rgb(50, 50, 50);\">(c) 2017 frutra GbR Wolfgang Baumann, Samuel Fürle.</span><br>"
+        },
+        {
+          "_tags": [
+            "Theme"
+          ],
+          "_name": "form1",
+          "_styles": {
+            ".form-control-label": {
+              "color": "#232323"
+            },
+            ".mbr-section-title": {
+              "color": "#7c706b"
+            }
+          },
+          "_anchor": "form1-1v",
+          "_params": {
+            "labelsColor": "#232323",
+            "paddingTop": 3,
+            "paddingBottom": 3,
+            "bgImageRadio": false,
+            "parallax": true,
+            "bgImage": "@THEME_PATH@/components/_images/jumbotron.jpg",
+            "bgColor": "#fff",
+            "bgColorRadio": true,
+            "overlay": false,
+            "overlayOpacity": 0.5,
+            "overlayColor": "#222",
+            "showTitle": true,
+            "showSubTitle": false
+          },
+          "title": "KONTAKT",
+          "subtitle": "Shape your future web project with sharp design and refine coded functions.",
+          "form": {
+            "action": "wolfgangbaumann@gmx.de",
+            "alerts": {
+              "success": "Vielen Dank für Ihre Nachricht!"
+            },
+            "fields": {
+              "name": {
+                "title": "Name",
+                "visible": true,
+                "customTitle": "Name*"
+              },
+              "email": {
+                "title": "Email",
+                "visible": true,
+                "customTitle": "E-Mail*"
+              },
+              "phone": {
+                "title": "Phone",
+                "visible": true,
+                "customTitle": "Telefon"
+              },
+              "message": {
+                "title": "Message",
+                "customTitle": "Nachricht"
+              }
+            }
+          },
+          "buttons": "<a data-app-btn=\"true\" type=\"submit\" class=\"btn btn-primary\" data-toolbar=\"-mbrLink,-mbrBtnAdd,-mbrBtnMove\">Absenden</a>"
+        }
+      ]
+    },
+    "AGB.html": {
+      "settings": {
+        "title": "AGB",
+        "meta_descr": "Enthält die AGB\n"
+      },
+      "components": [
+        {
+          "_styles": {
+            ".hide-buttons .nav-btn": {
+              "display": "none !important"
+            },
+            ".navbar-caption": {
+              "color": "#ffffff"
+            },
+            ".navbar-toggler": {
+              "color": "#f97352"
+            },
+            ".link, .dropdown-item": {
+              "color": "#f97352",
+              "googleLink": "https://fonts.googleapis.com/css?family=Open+Sans:400,300,700",
+              "font-family": "'Open Sans', sans-serif"
+            },
+            ".link": {
+              "font-size": "1rem"
+            },
+            ".dropdown-item, .nav-dropdown-sm .link": {
+              "font-size": "1.083rem"
+            },
+            ".link:hover, .dropdown-item:hover, .link:focus, .dropdown-item:focus": {
+              "color": "@primaryColor"
+            },
+            ".link[aria-expanded=\"true\"], .dropdown-menu": {
+              "background": "#e6e6e6"
+            },
+            ".nav-dropdown-sm .link:focus, .nav-dropdown-sm .link:hover, .nav-dropdown-sm .dropdown-item:focus, .nav-dropdown-sm .dropdown-item:hover": {
+              "background": "#f7f7f7!important"
+            },
+            ".navbar, .nav-dropdown-sm, .nav-dropdown-sm .link[aria-expanded=\"true\"], .nav-dropdown-sm .dropdown-menu": {
+              "background": "#ffffff"
+            },
+            ".bg-color.transparent .link": {
+              "color": "#f97352",
+              "transition": "none"
+            },
+            ".bg-color.transparent.opened .link": {
+              "transition": "color .2s ease-in-out"
+            },
+            ".bg-color.transparent.opened .link:hover, .bg-color.transparent.opened .link:focus": {
+              "color": "@primaryColor"
+            },
+            ".link[aria-expanded=\"true\"], .dropdown-item[aria-expanded=\"true\"]": {
+              "color": "#a38f84!important"
+            },
+            "&.mbr-navbar--stuck .mbr-navbar__section": {
+              "background": "#2c2c2c"
+            },
+            ".mbr-navbar__section": {},
+            ".mbr-navbar__hamburger": {
+              "color": "#ffffff"
+            },
+            ".close-icon::before, .close-icon::after": {
+              "background-color": "#f97352"
+            }
+          },
+          "_name": "menu",
+          "_anchor": "menu-0",
+          "_params": {
+            "bgColor": "#ffffff",
+            "fontSize": "1",
+            "fontName": {
+              "name": "Open Sans",
+              "url": "https://fonts.googleapis.com/css?family=Open+Sans:400,300,700",
+              "css": "'Open Sans', sans-serif"
+            },
+            "fontColor": "#b8312f",
+            "fontHoverColor": "@primaryColor",
+            "transparent": false,
+            "sticky": false,
+            "logo": true,
+            "showBrand": false,
+            "collapsed": true,
+            "hideButtons": true
+          },
+          "logo": {
+            "image": {
+              "active": true,
+              "src": "@PROJECT_PATH@/assets/images/frutra-logo-207x128.jpg",
+              "height": 128,
+              "alt": "Mobirise",
+              "link": "index.html",
+              "title": "",
+              "linkInNewWindow": false
+            },
+            "iconFont": {
+              "class": "mbr-iconfont mbr-iconfont-menu",
+              "link": "https://mobirise.com",
+              "size": 0
+            }
+          },
+          "brand": "<a class=\"navbar-caption\" data-app-btn=\"true\" data-app-selector=\".navbar-caption\" href=\"https://mobirise.com\" data-app-placeholder=\"Type Brand Name\" data-toolbar=\"-mbrBtnMove,-mbrBtnAdd,-mbrBtnRemove,mbrColor\"></a>",
+          "items": "<li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"index.html\">Home</a></li><li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"Überblick.html\">Überblick</a></li><li class=\"nav-item dropdown\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"Hilfe\" aria-expanded=\"false\">Hilfe</a></li><li class=\"nav-item dropdown\"><a data-app-btn=\"true\" class=\"nav-link link dropdown-toggle\" data-toggle=\"dropdown-submenu\" href=\"https://mobirise.com/\" aria-expanded=\"false\">Rechtliches</a><div class=\"dropdown-menu\"><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"AGB.html\">AGB</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"Datenschutzerklärung.html\">Datenschutzerklärung</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"Gebührenordnung.html\">Gebührenordnung</a></div></li><li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"Nutzer.html\" aria-expanded=\"false\">Nutzer</a></li><li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"Impressum.html\" aria-expanded=\"false\">Impressum</a></li><li class=\"nav-item nav-btn\"><a data-app-btn=\"true\" data-button=\"\" data-app-selector=\".btn\" class=\"nav-link btn btn-white btn-white-outline\" href=\"https://mobirise.com/\">DOWNLOAD</a></li>"
+        },
+        {
+          "_name": "footer1",
+          "_styles": {
+            "SPAN": {
+              "color": "#ffffff"
+            }
+          },
+          "_anchor": "footer1-1",
+          "_params": {
+            "paddingTop": 2,
+            "paddingBottom": 2,
+            "bgImageRadio": false,
+            "parallax": true,
+            "bgImage": "@THEME_PATH@/components/_images/jumbotron.jpg",
+            "bgColor": "#efefef",
+            "bgColorRadio": true,
+            "overlay": true,
+            "overlayOpacity": 0.8,
+            "overlayColor": "#444444"
+          },
+          "text": "<span style=\"font-size: 0.8125rem; line-height: 1.5; background-color: rgb(50, 50, 50);\">(c) 2017 frutra GbR Wolfgang Baumann, Samuel Fürle.</span><br>"
+        },
+        {
+          "_styles": {
+            ".mbr-section-title, .mbr-section-subtitle": {
+              "text-align": "center"
+            },
+            "H3": {
+              "font-family": "'Open Sans', sans-serif",
+              "googleLink": "https://fonts.googleapis.com/css?family=Open+Sans:400,300,700"
+            },
+            "SMALL": {
+              "font-size": "14px",
+              "font-family": "'Open Sans', sans-serif",
+              "googleLink": "https://fonts.googleapis.com/css?family=Open+Sans:400,300,700",
+              "color": "#000000"
+            },
+            "SPAN": {
+              "color": "#7c706b"
+            }
+          },
+          "_tags": [
+            "Theme"
+          ],
+          "_name": "header3",
+          "_anchor": "header3-5",
+          "_params": {
+            "paddingTop": "7",
+            "paddingBottom": 1,
+            "bgColor": "#fff",
+            "showMeta": true
+          },
+          "title": "<span style=\"font-weight: normal;\">Allgemeine Geschäftsbedingungen</span>",
+          "meta": "Stand 01.05.2017&nbsp;"
+        },
+        {
+          "_tags": [
+            "Theme"
+          ],
+          "_name": "content1",
+          "_styles": {
+            "DIV": {
+              "font-family": "'Open Sans', sans-serif",
+              "googleLink": "https://fonts.googleapis.com/css?family=Open+Sans:400,300,700",
+              "font-size": "16px",
+              "text-align": "left"
+            }
+          },
+          "_anchor": "content1-6",
+          "_params": {
+            "paddingTop": 1,
+            "paddingBottom": 1,
+            "bgColor": "#fff"
+          },
+          "text": "Vorbemerkung<div><br></div><p>Die frutra GbR Wolfgang Baumann, Samuel Fürle, Turmstraße 5, 77933 Lahr, betreibt die Internet-Plattform „frutra“ als rein technische Dienstleistung zum Kauf und Verkauf von Grundstoffen für die Getränkeherstellung. Die Plattform wird nachfolgend „frutra“ genannt. Die Einzelheiten der Nutzung der deutschsprachigen Webseite von frutra werden durch die nachfolgenden Allgemeinen Geschäftsbedingungen (nachfolgend: „AGB“) geregelt.</p><div><br></div><div>1. Allgemeine Bestimmungen</div><div><br></div><div>1.1 frutra richtet sich ausschließlich an Unternehmer im Sinne des § 14 BGB, die ein Mitgliedskonto registriert haben (nachfolgend: „Mitglieder“). Die Mitglieder können auf frutra Grundstoffe für die Getränkeherstellung (nachfolgend „Produkte“) anbieten oder erwerben.</div><div><br></div><div>1.2 Die frutra GbR ist an den auf frutra geschlossenen Kaufverträgen weder als Vertragspartei noch als Vertreter bzw. Erfüllungsgehilfe einer Vertragspartei oder in sonstiger Weise beteiligt. Benachrichtigungen, die über frutra im Zusammenhang mit einem Angebot oder einem Gesuch versendet werden, dienen nur der Information des jeweiligen Mitglieds. Soweit diese Benachrichtigungen rechtlich erhebliche Erklärungen enthalten, gelten diese für und gegen denjenigen als abgegeben, den es angeht. Parteien eines über frutra abgeschlossenen Kaufvertrages sind allein die hieran beteiligten Mitglieder (Verkäufer und Käufer). Diese sind auch Ansprechpartner für alle Fragen im Zusammenhang mit dem Kaufvertrag, z. B. über Zahlungsvereinbarungen, Terminabsprachen oder Gewährleistungsansprüche. Es besteht kein Anspruch gegen die frutra GbR auf die Entgegennahme und Bearbeitung von Beschwerden gegen andere Mitglieder von frutra oder auf Vermittlung in oder Schlichtung von Streitigkeiten zwischen diesen, es sei denn, dass Gegenstand der Beschwerde die Erfüllung gesetzlicher oder vertraglicher Verpflichtungen der frutra GbR aus dem Nutzungsvertrag nach Ziffer 2 dieser AGB ist.</div><div><br></div><div>1.3 Die frutra GbR bietet den Mitgliedern die technische Möglichkeit, in dem von ihr zur Verfügung gestellten Rahmen, frutra zu nutzen, um Angebote oder Gesuche zu veröffentlichen. Die auf frutra von den Mitgliedern veröffentlichten Angebote und Gesuche werden von der frutra GbR nicht auf ihre Rechtmäßigkeit, Richtigkeit und Vollständigkeit überprüft.&nbsp;</div><div><br></div><div>1.4 Die frutra GbR hat das Recht, aber nicht die Verpflichtung, Angebote oder Gesuche von Mitgliedern technisch so zu bearbeiten, aufzubereiten und anzugleichen, dass diese auch auf mobilen Endgeräten oder Softwareapplikationen von Dritten dargestellt werden können. Die Mitglieder sind selbst dafür verantwortlich, vor einer Kaufentscheidung den vollständigen Inhalt eines Angebots, eines Gesuchs oder eines anderen Inhalts auf frutra einzusehen, wenn die Eingabe oder der Vertragsschluss über ein mobiles Endgerät oder die Softwareapplikation eines Drittanbieters erfolgt.</div><div><br></div><div>1.5 Da eine Identifizierung von Personen im Internet nur eingeschränkt möglich ist, führt die frutra GbR eine Überprüfung der bei der Anmeldung hinterlegten Daten nur sehr beschränkt durch. Trotz verschiedenartiger Sicherheitsvorkehrungen kann daher nicht ausgeschlossen werden, dass für ein Mitgliedskonto falsche Kontaktdaten hinterlegt wurden. Jedes Mitglied hat sich deshalb selbst von der Identität seines Vertragspartners zu überzeugen.</div><div><br></div><div>2. Nutzungsvertrag</div><div><br></div><div>2.1 Die Nutzung von frutra setzt die Registrierung als Mitglied voraus. Die Registrierung ist kostenlos. Sie erfolgt durch Eröffnung eines Mitgliedskontos unter Zustimmung zu diesen AGB. Mit der Registrierung kommt zwischen der frutra GbR und dem Mitglied ein Vertrag über die Nutzung von frutra (im Folgenden: „Nutzungsvertrag“) zustande. Es besteht kein Anspruch auf Abschluss eines Nutzungsvertrags. Die Erbringung von Vermittlungsleistungen im Sinne eines Maklervertrages ist nicht Gegenstand des Nutzungsvertrages.</div><div><br></div><div>2.2 Die Registrierung ist nur Unternehmern gemäß § 14 BGB erlaubt. Die frutra GbR behält sich das Recht vor, sich die Unternehmereigenschaft auf Verlangen durch Vorlage von geeigneten Angaben oder Unterlagen (z. B. Gewerbeschein/Gewerberegisterauszug, Handelsregisterauszug) belegen zu lassen.&nbsp;</div><div><br></div><div>2.3 Die bei der Registrierung abgefragten Daten sind vollständig und korrekt anzugeben.&nbsp;</div><div><br></div><div>2.4 Die Registrierung einer juristischen Person oder einer Personengesellschaft darf nur von einer vertretungsberechtigten natürlichen Person vorgenommen werden, die namentlich genannt werden muss. Bei der Registrierung dürfen nur einzelne Personen als Inhaber des Mitgliedskontos angegeben werden. &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp;</div><div><br></div><div>2.5 Ändern sich nach der Registrierung die angegebenen Daten, so ist das Mitglied selbst verpflichtet, die Angaben in seinem Mitgliedskonto umgehend zu korrigieren.</div><div><br></div><div>2.6 Die Registrierung erfolgt über eine E-Mail-Adresse, mit der sich das Mitglied dann auf frutra anmelden kann. Rechte Dritter, insbesondere Namens- und Markenrechte, dürfen nicht verletzt werden. &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp;&nbsp;</div><div><br></div><div>2.7 Das Mitglied ist verpflichtet, sein Passwort geheim zu halten und den Zugang zu seinem Mitgliedskonto sorgfältig zu sichern. Das Mitglied ist verpflichtet, die frutra GbR unverzüglich schriftlich zu informieren, wenn es Anhaltspunkte dafür gibt, dass ein Mitgliedskonto von Dritten missbraucht wurde. &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp;&nbsp;</div><div><br></div><div>2.8 Das Mitglied haftet grundsätzlich für sämtliche Handlungen, die unter Verwendung seines Mitgliedskontos vorgenommen werden, es sei denn, das Mitglied hat den Missbrauch nicht zu vertreten. &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp;&nbsp;</div><div><br></div><div>2.9 Mitgliedskonten werden bei nicht vollständig durchgeführter Anmeldung nach einer angemessenen Zeit gelöscht.</div><div><br></div><div>2.10 Die frutra GbR ist berechtigt, ihre Rechte und Pflichten aus dem Nutzungsvertrag ganz oder teilweise auf einen Dritten zu übertragen (im Folgenden „Rechtsnachfolge“). Hierüber wird die frutra GbR das Mitglied mindestens vier Wochen im Voraus informieren. Ist das Mitglied mit der Rechtsnachfolge nicht einverstanden, kann es den Nutzungsvertrag innerhalb von vier Wochen nach Zugang der Information ohne Einhaltung einer Frist kündigen. Mit der Information über die Rechtsnachfolge wird die frutra GbR das Mitglied auf das Kündigungsrecht und die Kündigungsfrist hinweisen.</div><div><br></div><div>2.11 Die frutra GbR ist nicht verpflichtet, den Mitgliedern gemäß § 312 i Abs. 1 BGB technische Mittel zur frühzeitigen Erkennung und Berichtigung von Eingabefehlern zur Verfügung zu stellen, die Informationen gem. Art. 246 c Nr. 3 EGBGB mitzuteilen und/oder den Zugang von Bestellungen unverzüglich auf elektronischem Weg zu bestätigen.</div><div><br></div><div>3. Gegenstand und Umfang des Nutzungsvertrags</div><div><br></div><div>3.1 Die frutra GbR stellt dem Mitglied frutra mit den Funktionen, die in diesen AGB beschrieben werden, zur Verfügung. Die frutra GbR ist berechtigt, die Nutzung von frutra oder einzelner Funktionen oder den Umfang, in dem einzelne Funktionen und Services genutzt werden können, an bestimmte Voraussetzungen zu knüpfen, wie z.B. Prüfung der Anmeldedaten, Zahlungsnachweise, Gewerbe- bzw. Handelsregisterauszug etc.</div><div><br></div><div>3.2 Die frutra GbR behält sich trotz nicht bestehender gesetzlicher Verpflichtung das Recht vor, Maßnahmen einzuführen, die die Veröffentlichung von Angeboten oder Gesuchen auf frutra aus Sicherheitsgründen verzögern. &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp;&nbsp;</div><div><br></div><div>3.3 Der Anspruch des Mitglieds auf Nutzung von frutra und seiner Funktionen besteht nur im Rahmen des aktuellen Stands der Technik. Die frutra GbR kann die Leistungen von frutra zeitweilig beschränken, wenn dies im Hinblick auf Kapazitätsgrenzen, die Sicherheit oder Integrität der Server oder zur Durchführung technischer Maßnahmen erforderlich ist und dies der ordnungsgemäßen oder verbesserten Erbringung der Leistungen dient (Wartungsarbeiten). Die frutra GbR wird in diesen Fällen soweit möglich die berechtigten Interessen der Mitglieder berücksichtigen, z.B. durch Vorabinformationen. &nbsp;&nbsp;</div><div><br></div><div>4. Sanktionen, Sperrung und Kündigung</div><div><br></div><div>4.1 Die frutra GbR ist dazu berechtigt, insbesondere folgende Maßnahmen zu ergreifen, wenn Anhaltspunkte dafür bestehen, dass ein Mitglied gesetzliche Vorschriften, Rechte Dritter oder diese AGB missachtet:</div><div><br></div><div>&nbsp; &nbsp; Löschen von Angeboten, Gesuchen oder sonstigen Inhalten</div><div>&nbsp; &nbsp; Verwarnung von Mitgliedern</div><div>&nbsp; &nbsp; Be-/Einschränkung der Nutzung von frutra</div><div>&nbsp; &nbsp; Vorläufige Sperrung</div><div>&nbsp; &nbsp; Endgültige Sperrung</div><div><br></div><div>4.2 Bei der Wahl einer Maßnahme beachtet die frutra GbR die berechtigten Interessen des betroffenen Mitglieds, insbesondere ob Anhaltspunkte dafür vorliegen, dass das Mitglied den Verstoßdnicht zu vertreten hat.</div><div><br></div><div>4.3 Die frutra GbR ist zur Vermeidung eigener Haftung insbesondere auch ohne eigene rechtliche Prüfung dazu berechtigt, Nutzerkonten und/oder Angebote vorläufig zu sperren, wenn Inhalte von dritter Seite beanstandet werden. Soweit möglich wird die frutra GbR dem betroffenen Mitglied die Möglichkeit einräumen, Stellung zu nehmen.</div><div><br></div><div>4.4 Die frutra GbR kann ein Mitglied aus wichtigem Grund endgültig von der Nutzung von frutra ausschließen (endgültige Sperre), wenn es falsche Kontaktdaten angegeben hat, insbesondere eine falsche oder ungültige E-Mail-Adresse; oder sein Mitgliedskonto überträgt; oder andere frutra-Mitglieder oder die frutra GbR in erheblichem Maße schädigt, insbesondere Leistungen der frutra GbR missbraucht.</div><div><br></div><div>4.5 Eine erneute Registrierung und/oder Anmeldung des Mitglieds nach endgültiger Sperrung ist ausgeschlossen.&nbsp;</div><div><br></div><div>4.6 Mitglieder können diesen Nutzungsvertrag jederzeit fristlos kündigen, indem sie das Mitgliedskonto löschen. Ein entsprechender Button ist unter „Mein frutra, Benutzerkonto“ enthalten.</div><div><br></div><div>4.7 Die frutra GbR kann den Nutzungsvertrag jederzeit ohne Angabe von Gründen mit einer Frist von 14 Tagen zum Monatsende kündigen. Das Recht zur Sperrung bleibt hiervon unberührt.</div><div><br></div><div>5. Gebühren und sonstige Entgelte, Rechnungsstellung</div><div><br></div><div>5.1 Die Registrierung und die Mitgliedschaft bei frutra sind kostenlos. Im Übrigen richten sich die Gebühren und sonstigen Entgelte nach der jeweils aktuellen Gebührenordnung von frutra. Die Gebührenordnung in der jeweils gültigen Fassung ist Bestandteil dieser AGB und damit Inhalt des Nutzungsvertrages.</div><div><br></div><div>5.2 Die einzelnen Gebühren und sonstigen Entgelte werden dem Mitglied in Rechnung gestellt. Das Mitglied willigt darin ein, dass die frutra GbR ihm eine Rechnung in elektronischer Form zukommen lässt, die zum Vorsteuerabzug berechtigt. Die Gebühren und sonstigen Entgelte sind mit Eingang der Rechnung zur Zahlung fällig.&nbsp;</div><div><br></div><div>5.3 Die Mitglieder kommen ohne weitere Mahnung 30 Tage nach Zugang der Rechnung in Verzug. &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp;&nbsp;</div><div><br></div><div>5.4 Mitglieder dürfen gegen Forderungen der frutra GbR mit Forderungen aus noch nicht erteilten Gutschriften und mit fälligen und/oder zukünftigen Forderungen nur dann aufrechnen, wenn diese Forderungen rechtskräftig festgestellt oder unbestritten sind.</div><div><br></div><div>5.5 Die frutra GbR behält sich das Recht vor, für die Löschung von Angeboten oder Inhalten oder für die Sperrung von Mitgliedern wegen Verstoßes gegen die AGB eine Aufwandspauschale in Höhe von 200 EUR zu berechnen, soweit das Mitglied den Verstoß zu vertreten hat. Dies gilt nicht, wenn das Mitglied nachweist, dass ein Schaden überhaupt nicht oder in wesentlich geringerer Höhe entstanden ist. Ebenso kann die frutra GbR für die Freischaltung eines gesperrten Mitgliedskontos eine angemessene Gebühr erheben.</div><div><br></div><div>5.6 Die frutra GbR kann die Gebührenordnung für frutra jederzeit ändern. Änderungen der Gebührenordnung werden den Mitgliedern rechtzeitig vor dem Inkrafttreten auf frutra mitgeteilt.</div><div><br></div><div>6. Vertragsstrafe bei Missbrauch des Gebührensystems</div><div><br></div><div>6.1 Den Mitgliedern ist es untersagt, die Gebührenstruktur von frutra zu umgehen, z.B. indem Kaufverträge außerhalb von frutra geschlossen werden.</div><div><br></div><div>6.2 Kommt zwischen Mitgliedern ein Kaufvertrag über ein auf frutra angebotenes Produkt zustande, wird von einem Verstoßagegen das vorstehende Verbot ausgegangen. Dies gilt nicht, wenn der Verkäufer nachweist, dass kein Verstoß gegen Ziffer 6.1 dieser AGB vorliegt.</div><div><br></div><div>6.3 Für jeden Fall des Verstoßes gegen das Verbot in Ziffer 6.1 dieser AGB verpflichtet sich der jeweilige Verkäufer zur Zahlung einer Vertragsstrafe in Höhe von 5 % des Auftragswerts eines unter Verstoßegegen dieses Verbot zustande gekommenen Kaufvertrages.</div><div><br></div><div>7. Verbotene Produkte</div><div><br></div><div>Es ist verboten, auf frutra Inhalte zu veröffentlichen, Produkte anzubieten oder Gesuche aufzugeben, die gegen gesetzliche Vorschriften, Rechte Dritter oder gegen die guten Sitten verstoßen.</div><div><br></div><div>8. Allgemeine Pflichten der Mitglieder</div><div><br></div><div>8.1 Die Mitglieder sind verpflichtet, bei der Nutzung von frutra die geltenden Gesetze zu befolgen. Es liegt in der eigenen Verantwortung eines jeden Mitglieds sicherzustellen, dass seine Angebote, Gesuche oder sonstigen Inhalte rechtmäßig sind und keine Rechte Dritter verletzen. &nbsp; &nbsp; &nbsp;</div><div><br></div><div>8.2 Die frutra GbR bietet dem Mitglied die Möglichkeit, die gesetzlichen Pflichtangaben gemäß § 5 TMG für sein Unternehmen in seinem Profil zu hinterlegen. Das Mitglied ist verpflichtet, von dieser Möglichkeit Gebrauch zu machen. Es obliegt allein dem Mitglied zu überprüfen, welche Angaben erforderlich sind. Eine Prüfpflicht der frutra GbR besteht nicht. &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp;&nbsp;</div><div><br></div><div>8.3 Das Mitglied trägt die Verantwortung dafür, auf frutra einsehbare und von der frutra GbR gespeicherte Informationen, die es zu Zwecken der Beweissicherung, Buchführung usw. benötigt, auf einem von frutra unabhängigen Speichermedium zu archivieren. &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp;</div><div><br></div><div>8.4 Das Mitglied darf Adressen, Kontaktdaten und E-Mail-Adressen, die es durch die Nutzung von frutra erhalten hat, für keine anderen Zwecke nutzen, als für die vertragliche und vorvertragliche Kommunikation. Es ist ausdrücklich verboten, diese Daten weiterzuverkaufen oder sie für die Zusendung von Werbung zu nutzen, es sei denn, das jeweilige Mitglied hat dieser Nutzung vorher zugestimmt.</div><div><br></div><div>9. Vertragsschluss zwischen Mitgliedern</div><div><br></div><div>9.1 Die frutra GbR bietet den Mitgliedern die Möglichkeit, auf frutra Kaufverträge abzuschließen.</div><div><br></div><div>9.2 Im Falle eines Vertragsschlusses zwischen Mitgliedern auf frutra, werden den jeweiligen Vertragspartnern die zur wechselseitigen Kontaktaufnahme erforderlichen Daten mitgeteilt. &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp;&nbsp;</div><div><br></div><div>10. Angebote</div><div><br></div><div>10.1 Stellt ein Mitglied auf frutra ein Angebot ein, handelt es sich dabei um ein rechtlich verbindliches Angebot im Sinne des § 145 BGB. Der Anbieter ist verpflichtet anzugeben, ob sich der Preis inklusive oder exklusive Umsatzsteuer versteht und ob und ggfs. in welcher Höhe weitere Fracht- bzw. Lieferkosten anfallen (§ 1 PAngV).</div><div><br></div><div>10.2 Die übrigen Mitglieder können das Angebot annehmen oder ein Gegenangebot (im Folgenden „Verhandlungsangebot“ genannt) abgeben. Das Verhandlungsangebot wird nur dem jeweiligen Anbieter übermittelt. Das Verhandlungsangebot kann sich insbesondere auf den Preis beziehen. Das Verhandlungsangebot ist ein rechtlich verbindliches Angebot im Sinne des § 145 BGB.</div><div><br></div><div>10.3 Der Anbieter kann das Verhandlungsangebot annehmen oder seinerseits ein Verhandlungsangebot unterbreiten.</div><div><br></div><div>Ein solches Verhandlungsangebot des Anbieters steht jedoch unter dem Vorbehalt des Zwischenverkaufs. Kommt vor Annahme durch einen Käufer ein Kaufvertrag mit einem anderen Käufer zustande, verliert das Verhandlungsangebot seine Wirksamkeit, ohne dass es einer ausdrücklichen Erklärung des Anbieters bedarf. Der „Annehmen“-Button ist in diesem Fall deaktiviert. &nbsp;&nbsp;</div><div><br></div><div>Das jeweils andere Mitglied hat stattdessen die Möglichkeit, dem Anbieter ein neues Verhandlungsangebot zu unterbreiten.&nbsp;</div><div><br></div><div>11. Gesuche</div><div><br></div><div>11.1 Stellt ein Mitglied auf der frutra ein Gesuch ein, handelt es sich dabei um die Aufforderung an die übrigen Mitglieder, ein bindendes Angebot im Sinne des § 145 BGB zu unterbreiten. Das Gesuch ist also eine sogenannte „invitatio ad offerendum“. Gibt ein Mitglied auf ein Gesuch ein Angebot ab, wird dieses Angebot nur demjenigen Mitglied übermittelt, das das Gesuch eingestellt hat. Das Angebot ist rechtlich verbindlich.</div><div><br></div><div>11.2 Im Übrigen gilt Ziffer 10 dieser AGB entsprechend.</div><div><br></div><div>12. Produktverantwortung</div><div><br></div><div>12.1 Die Verantwortung für das jeweilige Produkt liegt allein beim Mitglied.</div><div><br></div><div>12.2 Das Mitglied verpflichtet sich, die frutra GbR von allen Ansprüchen freizustellen, die andere Mitglieder, private Dritte oder Behörden geltend machen, die sich auf bei frutra angebotene bzw. verkaufte Produkte beziehen. Dies gilt insbesondere für eine etwaige lebensmittelrechtliche Haftung.</div><div><br></div><div>12.2 Ziffer 13 dieser AGB gilt entsprechend. &nbsp;&nbsp;</div><div><br></div><div>13. Freistellung</div><div><br></div><div>13.1 Das Mitglied stellt die frutra GbR von sämtlichen Ansprüchen frei, die andere Mitglieder oder sonstige Dritte gegenüber der frutra GbR geltend machen wegen Verletzung ihrer Rechte durch von dem Mitglied auf frutra eingestellte Angebote oder Gesuche oder wegen dessen sonstiger Nutzung von frutra.</div><div><br></div><div>13.2 Das Mitglied übernimmt hierfür die Kosten der notwendigen Rechtsverteidigung der frutra GbR einschließlich sämtlicher Gerichts- und Anwaltskosten in gesetzlicher Höhe. Dies gilt nicht, wenn die Rechtsverletzung von dem Mitglied nicht zu vertreten ist.</div><div><br></div><div>13.3 Das Mitglied ist verpflichtet, die frutra GbR für den Fall einer Inanspruchnahme durch Dritte unverzüglich, wahrheitsgemäßiund vollständig alle Informationen zur Verfügung zu stellen, die für die Prüfung der Ansprüche und eine Verteidigung erforderlich sind.</div><div><br></div><div>14. Haftungsbeschränkung</div><div><br></div><div>14.1 Für eine von der frutra GbR zu vertretende Verletzung wesentlicher Vertragspflichten haftet die frutra GbR nach Maßgabe der gesetzlichen Vorschriften. Wesentliche Vertragspflichten sind solche Vertragspflichten, deren Erfüllung dem Vertrag das Gepräge gibt und seine ordnungsgemäße Durchführung überhaupt erst ermöglicht.</div><div><br></div><div>14.2 Für alle übrigen Pflichtverletzungen haftet die frutra GbR nur, wenn ein Schaden durch einen ihrer gesetzlichen Vertreter oder durch einen Erfüllungsgehilfen vorsätzlich oder grob fahrlässig verursacht worden ist.</div><div><br></div><div>14.3 Soweit der frutra GbR kein vorsätzliches Verhalten zur Last fällt, haftet sie nur für den typischerweise eintretenden vorhersehbaren Schaden.</div><div><br></div><div>14.4 Die Haftung nach dem Produkthaftungsgesetz bleibt unberührt; dies gilt auch für die Haftung wegen schuldhafter Verletzung des Lebens, des Körpers oder der Gesundheit.</div><div><br></div><div>14.5 Bei Übernahme einer Garantie haftet die frutra GbR nach Maßgabe der gesetzlichen Vorschriften.</div><div><br></div><div>14.6 Soweit vorstehend nichts Abweichendes geregelt ist, sind Schadensersatzansprüche gegen die frutra GbR aus Pflichtverletzungen ausgeschlossen.</div><div><br></div><div>14.7 Schadensersatzansprüche nach Ziffer 14 dieser AGB verjähren innerhalb der gesetzlichen Fristen.</div><div><br></div><div>15. Anwendbares Recht und Gerichtsstand</div><div><br></div><div>Der Nutzungsvertrag unterliegt dem Recht der Bundesrepublik Deutschland unter Ausschluss des Abkommens des UN-Kaufrechts (CISG). Für Mitglieder, die Kaufmann im Sinne des Handelsgesetzbuchs sind, ist Lahr/Schwarzwald ausschließlicher Gerichtsstand für alle aus dem Nutzungsvertrag und diesen AGB entstehenden Streitigkeiten. Das gilt ebenso für Mitglieder, die keinen allgemeinen Gerichtsstand in Deutschland haben.&nbsp;</div><div><br></div><div>16. Änderung dieser AGB, Salvatorische Klausel</div><div><br></div><div>16.1 Die frutra GbR behält sich vor, diese AGB jederzeit unter Angabe der Gründe zu ändern, soweit dies für die Mitglieder nicht unzumutbar ist. Zulässige Änderungsgründe sind hierbei insbesondere eine Änderung der geltenden Rechtslage und eine dahingehend notwendige Anpassung der AGB sowie eine Anpassung an veränderte Marktgegebenheiten. Die geänderten Bedingungen werden den Mitgliedern per E-Mail spätestens zwei Wochen vor ihrem Inkrafttreten zugesendet. Widerspricht ein Mitglied der Geltung der neuen AGB nicht innerhalb von zwei Wochen nach Empfang der E-Mail, gelten die geänderten AGB als angenommen. Die frutra GbR wird die Mitglieder in der E-Mail, die die geänderten Bedingungen enthält, auf die Bedeutung dieser Zweiwochenfrist gesondert hinweisen.</div><div><br></div><div>16.2 Sofern eine Bestimmung dieser AGB unwirksam ist, bleiben die übrigen Bestimmungen davon unberührt. Die unwirksame Bestimmung gilt als durch eine solche ersetzt, die dem Sinn und Zweck der unwirksamen Bestimmung in rechtswirksamer Weise wirtschaftlich am nächsten kommt. Gleiches gilt für eventuelle Regelungslücken.</div><div><br></div>"
+        }
+      ]
+    },
+    "Datenschutzerklärung.html": {
+      "settings": {
+        "title": "Datenschutzerklärung",
+        "meta_descr": "Enthält die Datenschutzerklärung\n"
+      },
+      "components": [
+        {
+          "_styles": {
+            ".hide-buttons .nav-btn": {
+              "display": "none !important"
+            },
+            ".navbar-caption": {
+              "color": "#ffffff"
+            },
+            ".navbar-toggler": {
+              "color": "#f97352"
+            },
+            ".link, .dropdown-item": {
+              "color": "#f97352",
+              "googleLink": "https://fonts.googleapis.com/css?family=Open+Sans:400,300,700",
+              "font-family": "'Open Sans', sans-serif"
+            },
+            ".link": {
+              "font-size": "1rem"
+            },
+            ".dropdown-item, .nav-dropdown-sm .link": {
+              "font-size": "1.083rem"
+            },
+            ".link:hover, .dropdown-item:hover, .link:focus, .dropdown-item:focus": {
+              "color": "@primaryColor"
+            },
+            ".link[aria-expanded=\"true\"], .dropdown-menu": {
+              "background": "#e6e6e6"
+            },
+            ".nav-dropdown-sm .link:focus, .nav-dropdown-sm .link:hover, .nav-dropdown-sm .dropdown-item:focus, .nav-dropdown-sm .dropdown-item:hover": {
+              "background": "#f7f7f7!important"
+            },
+            ".navbar, .nav-dropdown-sm, .nav-dropdown-sm .link[aria-expanded=\"true\"], .nav-dropdown-sm .dropdown-menu": {
+              "background": "#ffffff"
+            },
+            ".bg-color.transparent .link": {
+              "color": "#f97352",
+              "transition": "none"
+            },
+            ".bg-color.transparent.opened .link": {
+              "transition": "color .2s ease-in-out"
+            },
+            ".bg-color.transparent.opened .link:hover, .bg-color.transparent.opened .link:focus": {
+              "color": "@primaryColor"
+            },
+            ".link[aria-expanded=\"true\"], .dropdown-item[aria-expanded=\"true\"]": {
+              "color": "#a38f84!important"
+            },
+            "&.mbr-navbar--stuck .mbr-navbar__section": {
+              "background": "#2c2c2c"
+            },
+            ".mbr-navbar__section": {},
+            ".mbr-navbar__hamburger": {
+              "color": "#ffffff"
+            },
+            ".close-icon::before, .close-icon::after": {
+              "background-color": "#f97352"
+            }
+          },
+          "_name": "menu",
+          "_anchor": "menu-7",
+          "_params": {
+            "bgColor": "#ffffff",
+            "fontSize": "1",
+            "fontName": {
+              "name": "Open Sans",
+              "url": "https://fonts.googleapis.com/css?family=Open+Sans:400,300,700",
+              "css": "'Open Sans', sans-serif"
+            },
+            "fontColor": "#b8312f",
+            "fontHoverColor": "@primaryColor",
+            "transparent": false,
+            "sticky": false,
+            "logo": true,
+            "showBrand": false,
+            "collapsed": true,
+            "hideButtons": true
+          },
+          "logo": {
+            "image": {
+              "active": true,
+              "src": "@PROJECT_PATH@/assets/images/frutra-logo-207x128.jpg",
+              "height": 128,
+              "alt": "Mobirise",
+              "link": "index.html",
+              "title": "",
+              "linkInNewWindow": false
+            },
+            "iconFont": {
+              "class": "mbr-iconfont mbr-iconfont-menu",
+              "link": "https://mobirise.com",
+              "size": 0
+            }
+          },
+          "brand": "<a class=\"navbar-caption\" data-app-btn=\"true\" data-app-selector=\".navbar-caption\" href=\"https://mobirise.com\" data-app-placeholder=\"Type Brand Name\" data-toolbar=\"-mbrBtnMove,-mbrBtnAdd,-mbrBtnRemove,mbrColor\"></a>",
+          "items": "<li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"index.html\">Home</a></li><li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"Überblick.html\">Überblick</a></li><li class=\"nav-item dropdown\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"Hilfe\" aria-expanded=\"false\">Hilfe</a></li><li class=\"nav-item dropdown\"><a data-app-btn=\"true\" class=\"nav-link link dropdown-toggle\" data-toggle=\"dropdown-submenu\" href=\"https://mobirise.com/\" aria-expanded=\"false\">Rechtliches</a><div class=\"dropdown-menu\"><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"AGB.html\">AGB</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"Datenschutzerklärung.html\">Datenschutzerklärung</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"Gebührenordnung.html\">Gebührenordnung</a></div></li><li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"Nutzer.html\" aria-expanded=\"false\">Nutzer</a></li><li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"Impressum.html\" aria-expanded=\"false\">Impressum</a></li><li class=\"nav-item nav-btn\"><a data-app-btn=\"true\" data-button=\"\" data-app-selector=\".btn\" class=\"nav-link btn btn-white btn-white-outline\" href=\"https://mobirise.com/\">DOWNLOAD</a></li>"
+        },
+        {
+          "_name": "footer1",
+          "_styles": {
+            "SPAN": {
+              "color": "#ffffff"
+            }
+          },
+          "_anchor": "footer1-8",
+          "_params": {
+            "paddingTop": 2,
+            "paddingBottom": 2,
+            "bgImageRadio": false,
+            "parallax": true,
+            "bgImage": "@THEME_PATH@/components/_images/jumbotron.jpg",
+            "bgColor": "#efefef",
+            "bgColorRadio": true,
+            "overlay": true,
+            "overlayOpacity": 0.8,
+            "overlayColor": "#444444"
+          },
+          "text": "<span style=\"font-size: 0.8125rem; line-height: 1.5; background-color: rgb(50, 50, 50);\">(c) 2017 frutra GbR Wolfgang Baumann, Samuel Fürle.</span><br>"
+        },
+        {
+          "_styles": {
+            ".mbr-section-title, .mbr-section-subtitle": {
+              "text-align": "center"
+            },
+            "H3": {
+              "font-family": "'Open Sans', sans-serif",
+              "googleLink": "https://fonts.googleapis.com/css?family=Open+Sans:400,300,700"
+            },
+            "SMALL": {
+              "font-size": "14px",
+              "font-family": "'Open Sans', sans-serif",
+              "googleLink": "https://fonts.googleapis.com/css?family=Open+Sans:400,300,700",
+              "color": "#000000"
+            },
+            "SPAN": {
+              "color": "#7c706b"
+            }
+          },
+          "_tags": [
+            "Theme"
+          ],
+          "_name": "header3",
+          "_anchor": "header3-9",
+          "_params": {
+            "paddingTop": "7",
+            "paddingBottom": 1,
+            "bgColor": "#fff",
+            "showMeta": true
+          },
+          "title": "<span style=\"font-weight: normal;\">Datenschutzerklärung</span>",
+          "meta": "Stand 01.05.2017&nbsp;"
+        },
+        {
+          "_tags": [
+            "Theme"
+          ],
+          "_name": "content1",
+          "_styles": {
+            "DIV": {
+              "font-family": "'Open Sans', sans-serif",
+              "googleLink": "https://fonts.googleapis.com/css?family=Open+Sans:400,300,700",
+              "font-size": "16px",
+              "text-align": "left"
+            }
+          },
+          "_anchor": "content1-a",
+          "_params": {
+            "paddingTop": 1,
+            "paddingBottom": 1,
+            "bgColor": "#fff"
+          },
+          "text": "<div>Vorbemerkung</div><div><br></div><div>Wir, die frutra GbR, informieren Sie darüber, wie wir Ihre personenbezogenen Daten im Rahmen der Nutzung unserer Internet-Plattform frutra erheben und verwenden.</div><div><br></div><div>Wenn Sie frutra aufrufen und nutzen, werden abhängig von der Art Ihrer Nutzung diverse Informationen über Ihren PC oder ein sonstiges Endgerät wie z. B. ein Smartphone, mit dem Sie frutra nutzen (nachfolgend: Ihr „System“) an uns übermittelt. Der Großteil der im Rahmen der Nutzung übermittelten Informationen ist nicht personenbezogen. In der nachfolgenden Datenschutzerklärung erläutern wir, um welche Informationen und personenbezogenen Daten es sich dabei handelt und wie wir diese nutzen.</div><div><br></div><div>Wir erheben und verarbeiten Ihre personenbezogenen Daten nur soweit sie uns hierfür eine Einwilligung erteilt haben oder der Gesetzgeber es uns ausdrücklich erlaubt bzw. uns vorschreibt oder Sie es uns gestatten.</div><div>Was sind personenbezogene Daten?</div><div><br></div><div>Personenbezogene Daten sind alle Informationen über persönliche und sachliche Verhältnisse einer bestimmten oder bestimmbaren natürlichen Person (§ 3 Absatz 1 BDSG) oder eines Nutzers. Beispiele für personenbezogene Daten sind Angaben wie Ihr Name, Ihre Anschrift oder Ihre Telefonnummer.</div><div>Wie erheben und verarbeiten wir Ihre personenbezogenen Daten?</div><div><br></div><div>Wenn Sie unsere Internetangebote besuchen, ohne angemeldet zu sein, erheben wir nur die zur Darstellung der von Ihnen aufgerufenen Internetseiten erforderlichen Informationen. Ferner erheben wir einige Daten zur Verbesserung der Sicherheit und Leistungsfähigkeit von frutra. Zu diesen beiden genannten Zwecken erfassen wir u.a. die Ihrem Rechner zugewiesene IP-Adresse, der Name und die URL der angeforderten Datei sowie Datum und Uhrzeit der Anforderung oder die von Ihnen verwendete Browser-Version. Diese Daten können wir keiner Person zuordnen. Wir werden diese Daten aber dennoch nur solange aufbewahren, wie es aus technischen Gründen oder aus besonderem Anlass, z.B. zu Beweiszwecken bei missbräuchlicher oder rechtswidriger Nutzung, notwendig ist bzw. vom Gesetzgeber vorgeschrieben wird.</div><div><br></div><div>Der wesentliche Teil unserer Angebote ist für Sie nur nutzbar, wenn Sie sich bei uns registrieren. Wir erfragen dabei Daten, die für die Nutzung erforderlich oder empfehlenswert sind. Hierbei handelt es sich insbesondere um den Firmennamen, die Adresse und weitere Kontaktinformationen. Wir weisen im Zusammenhang mit der Erhebung der Daten darauf hin, wenn eine Information eine Pflichtangabe ist.</div><div><br></div><div>Außerdem speichert frutra ein Anbieterprofil sowie Zahlungsinformationen für die Entrichtung der Gebühren. Schließlich werden Angaben über Art und Inhalt der Angebote oder Gesuche gespeichert, die Sie bei frutra eingestellt haben.</div><div><br></div><div>Zur Verbesserung des Internetangebotes erstellen wir pseudonymisierte Nutzungsprofile. Hierfür setzen wir Cookies ein (siehe unten). Der Inhalt der Cookies beschränkt sich auf eine Identifikationsnummer. Wir speichern darin keine personenbezogenen Daten. Eine Einzelprofilbildung über Ihr Nutzungsverhalten findet nicht statt. Sie können der diesbezüglichen Verwendung Ihrer Daten jederzeit widersprechen. Mehr Informationen erhalten Sie im nächsten Abschnitt.</div><div>Wie gehen wir mit Cookies um? Was können Sie in Bezug auf Cookies einstellen?</div><div><br></div><div>Ein Cookie ist eine kleine Textdatei, die eine Website bzw. ein Webserver an Ihren Browser schickt, um Ihr System – aber nicht Sie persönlich – zu identifizieren. Bei der Nutzung von frutra werden Cookies zu folgenden Zwecken eingesetzt:</div><div><br></div><div>frutra nutzt sogenannte Session-Cookies, um angemeldete Nutzer wiederzuerkennen, wenn diese sich auf der Website bewegen. In diesen Cookies wird lediglich die Information gespeichert, anhand derer wir feststellen können, ob und mit welchem Nutzernamen Ihr System auf frutra angemeldet ist, um die mehrfache Eingabe Ihrer Login-Daten bei der Nutzung von frutra zu vermeiden. Zusätzlich werden bestimmte Daten (z.B. Login-Informationen oder persönliche Einstellungen) auf Wunsch in einem Permanent-Cookie gespeichert, um Ihr System auch nach einem zwischenzeitlichen Schließen des Browsers wiederzuerkennen und Ihnen bestimmte Funktionen von frutra ohne erneuten Login zur Verfügung zu stellen (die Abgabe von Angeboten und andere Funktionen erfordern jedoch einen erneuten Login).</div><div><br></div><div>Sie haben die Möglichkeit, Ihren Browser so einzustellen, dass er Sie vorab in Kenntnis setzt, wenn Sie einen Cookie erhalten, so dass Sie den Empfang des Cookies verweigern können. Sie können über Ihren Browser den Empfang von Cookies auch vollständig deaktivieren. Dies kann jedoch zur Folge haben, dass einige Funktionen von frutra nicht mehr oder nur eingeschränkt funktionieren.&nbsp;</div><div><br></div><div>Wenn Sie sich von frutra ordnungsgemäß abmelden, werden die von uns gesetzten Session- und ggf. auch Permanent-Cookies durch Ihren Webbrowser abhängig von dessen Einstellungen automatisch gelöscht. Wenn Sie den Browser ohne vorherige Abmeldung schließen, wird lediglich das Session-Cookie gelöscht, ein auf Ihren Wunsch hin gesetztes Permanent-Cookie bleibt dagegen erhalten.</div><div><br></div><div>Die frutra GbR benutzt für frutra Google Analytics, einen Webanalysedienst der Google Inc. („Google“). Google Analytics verwendet sog. „Cookies“, Textdateien, die auf Ihrem Computer gespeichert werden und die eine Analyse der Benutzung der Website durch Sie ermöglichen. Die durch den Cookie erzeugten Informationen über Ihre Benutzung dieser Website werden in der Regel an einen Server von Google in den USA übertragen und dort gespeichert. Im Falle der Aktivierung der IP-Anonymisierung auf dieser Webseite, wird Ihre IP-Adresse von Google jedoch innerhalb von Mitgliedstaaten der Europäischen Union oder in anderen Vertragsstaaten des Abkommens über den Europäischen Wirtschaftsraum zuvor gekürzt. Nur in Ausnahmefällen wird die volle IP-Adresse an einen Server von Google in den USA übertragen und dort gekürzt. Im Auftrag des Betreibers dieser Website wird Google diese Informationen benutzen, um Ihre Nutzung der Website auszuwerten, um Reports über die Websiteaktivitäten zusammenzustellen und um weitere mit der Websitenutzung und der Internetnutzung verbundene Dienstleistungen gegenüber dem Websitebetreiber zu erbringen. Die im Rahmen von Google Analytics von Ihrem Browser übermittelte IP-Adresse wird nicht mit anderen Daten von Google zusammengeführt. Sie können die Speicherung der Cookies durch eine entsprechende Einstellung Ihrer Browser-Software verhindern; wir weisen Sie jedoch darauf hin, dass Sie in diesem Fall gegebenenfalls nicht sämtliche Funktionen dieser Website vollumfänglich werden nutzen können. Sie können darüber hinaus die Erfassung der durch das Cookie erzeugten und auf Ihre Nutzung der Website bezogenen Daten (inkl. Ihrer IP-Adresse) an Google sowie die Verarbeitung dieser Daten durch Google verhindern, indem sie das unter dem folgenden Link (http://tools.google.com/dlpage/gaoptout?hl=de) verfügbare Browser-Plugin herunterladen und installieren. Nähere Informationen hierzu finden Sie unter http://tools.google.com/dlpage/gaoptout?hl=de bzw. unter http://www.google.com/intl/de/analytics/privacyoverview.html (allgemeine Informationen zu Google Analytics und Datenschutz). Wir weisen Sie darauf hin, dass auf dieser Webseite Google Analytics um den Code „gat._anonymizeIp();“ erweitert wurde, um eine anonymisierte Erfassung von IP-Adressen (sog. IP-Masking) zu gewährleisten.</div><div>Gibt die frutra GbR personenbezogenen Daten an Dritte weiter?</div><div><br></div><div>Die frutra GbR nutzt Ihre personenbezogenen Daten grundsätzlich nur selbst. Nur in bestimmten Fällen erfolgt eine Übermittlung an Dritte. Teilweise nutzen wir die Möglichkeiten einer Datenverarbeitung im Auftrag.</div><div><br></div><div>Soweit Dritte Ihre Daten erhalten, erfolgt dies zu folgenden Zwecken:</div><div><br></div><div>&nbsp; &nbsp; Zur Übermittlung von Adressdaten im Zusammenhang mit der Abwicklung des Vertragsverhältnisses, etwa, um den Kontakt zwischen dem Verkäufer und Käuferherzustellen.</div><div><br></div><div>&nbsp; &nbsp; Zur Abwicklung von Zahlungsvorgängen (z.B. Konto- sowie Rechnungsdaten) im Zusammenhang mit dem Einzug von Forderungen an Kreditinstitute.</div><div><br></div><div>&nbsp; &nbsp; Auskunft an bestimmte Behörden im Rahmen ihrer gesetzlichen Aufgaben.</div><div><br></div><div>Mitglieder von frutra dürfen die ihnen übermittelten personenbezogenen Daten je nach Anlass der Übermittlung ausschließlich für die Erfüllung der über frutra geschlossenen Kaufverträge oder eine sonstige, ausdrücklich gestattete Kontaktaufnahme verwenden. Sonstige Empfänger personenbezogener Daten dürfen die Daten nur zur Erbringung der Leistungen nutzen, für die ihnen die Daten übermittelt wurden.</div><div><br></div><div>Zur Verifikation eingegebener Adressdaten oder zur Prüfung der Bonität unserer Nutzer behalten wir uns ferner vor, bei Dritten eine Auskunft über den Nutzer einzuholen. Dazu werden die im Rahmen der Registrierung erhobenen Informationen über den Namen bzw. die Firma, die Anschrift sowie ggf. das Geburtsdatum an eine Wirtschaftsauskunftei oder einen anderen Auskunftsdienst übermittelt, die anhand dieser Daten die Validität der Adresse bzw. die Kreditwürdigkeit des jeweiligen Nutzers prüft. Die Auskunftei ist dabei ihrerseits zum Datenschutz verpflichtet.</div><div><br></div><div>Im Falle nicht vertragsgemäßer Abwicklung (z. B. Kündigung wegen Zahlungsverzugs, rechtskräftig festgestellter Forderung) können wir bei Vorliegen der gesetzlichen Voraussetzungen des § 28a BDSG ebenfalls personenbezogene Daten an die Wirtschaftsauskunftei übermitteln.</div><div>So können Sie Ihre Daten ändern und löschen: Ihre Widerrufsmöglichkeiten</div><div><br></div><div>Als frutra-Mitglied können Sie Ihre personenbezogenen Daten jederzeit im Bereich „Mein frutra, Benutzerkonto“ ändern (d. h. aktualisieren, korrigieren und/oder ergänzen) und teilweise löschen. Dort können Sie auch auswählen, wie wir Sie informieren und Newsletter abonnieren oder abbestellen.</div><div><br></div><div>Sollte eine Änderung oder Löschung Ihrer Daten unter Benutzerkonto nicht möglich sein, dann können Sie uns unter folgender E-Mail-Adresse erreichen: info@frutra.de.</div><div><br></div><div>Soweit Sie uns um Löschung Ihrer personenbezogenen Daten bitten, werden wir dieser Bitte unverzüglich nachkommen. Dies kann aber im Einzelfall eine Beendigung Ihrer Nutzung erfordern. Ferner können wir – soweit dies rechtlich zulässig ist – Daten lediglich sperren (z.B. weil wir gesetzlich zu deren Aufbewahrung verpflichtet sind.).</div><div>Auskunftsanspruch</div><div><br></div><div>Bei Fragen zum Thema Datenschutz erreichen Sie uns über die E-Mail-Adresse wolfgang.baumann@frutra.de oder per Post unter der im Impressum genannten Anschrift (frutra GbR Wolfgang Baumann, Samuel Fürle, Turmstraße 5, 77933 Lahr). Dort können Sie auch Ihre gesetzlichen Auskunftsrechte geltend machen .</div><div><br></div>"
+        }
+      ]
+    },
+    "Gebührenordnung.html": {
+      "settings": {
+        "title": "Gebührenordnung",
+        "meta_descr": "Gebührenordnung\n"
+      },
+      "components": [
+        {
+          "_styles": {
+            ".hide-buttons .nav-btn": {
+              "display": "none !important"
+            },
+            ".navbar-caption": {
+              "color": "#ffffff"
+            },
+            ".navbar-toggler": {
+              "color": "#f97352"
+            },
+            ".link, .dropdown-item": {
+              "color": "#f97352",
+              "googleLink": "https://fonts.googleapis.com/css?family=Open+Sans:400,300,700",
+              "font-family": "'Open Sans', sans-serif"
+            },
+            ".link": {
+              "font-size": "1rem"
+            },
+            ".dropdown-item, .nav-dropdown-sm .link": {
+              "font-size": "1.083rem"
+            },
+            ".link:hover, .dropdown-item:hover, .link:focus, .dropdown-item:focus": {
+              "color": "@primaryColor"
+            },
+            ".link[aria-expanded=\"true\"], .dropdown-menu": {
+              "background": "#e6e6e6"
+            },
+            ".nav-dropdown-sm .link:focus, .nav-dropdown-sm .link:hover, .nav-dropdown-sm .dropdown-item:focus, .nav-dropdown-sm .dropdown-item:hover": {
+              "background": "#f7f7f7!important"
+            },
+            ".navbar, .nav-dropdown-sm, .nav-dropdown-sm .link[aria-expanded=\"true\"], .nav-dropdown-sm .dropdown-menu": {
+              "background": "#ffffff"
+            },
+            ".bg-color.transparent .link": {
+              "color": "#f97352",
+              "transition": "none"
+            },
+            ".bg-color.transparent.opened .link": {
+              "transition": "color .2s ease-in-out"
+            },
+            ".bg-color.transparent.opened .link:hover, .bg-color.transparent.opened .link:focus": {
+              "color": "@primaryColor"
+            },
+            ".link[aria-expanded=\"true\"], .dropdown-item[aria-expanded=\"true\"]": {
+              "color": "#a38f84!important"
+            },
+            "&.mbr-navbar--stuck .mbr-navbar__section": {
+              "background": "#2c2c2c"
+            },
+            ".mbr-navbar__section": {},
+            ".mbr-navbar__hamburger": {
+              "color": "#ffffff"
+            },
+            ".close-icon::before, .close-icon::after": {
+              "background-color": "#f97352"
+            }
+          },
+          "_name": "menu",
+          "_anchor": "menu-b",
+          "_params": {
+            "bgColor": "#ffffff",
+            "fontSize": "1",
+            "fontName": {
+              "name": "Open Sans",
+              "url": "https://fonts.googleapis.com/css?family=Open+Sans:400,300,700",
+              "css": "'Open Sans', sans-serif"
+            },
+            "fontColor": "#b8312f",
+            "fontHoverColor": "@primaryColor",
+            "transparent": false,
+            "sticky": false,
+            "logo": true,
+            "showBrand": false,
+            "collapsed": true,
+            "hideButtons": true
+          },
+          "logo": {
+            "image": {
+              "active": true,
+              "src": "@PROJECT_PATH@/assets/images/frutra-logo-207x128.jpg",
+              "height": 128,
+              "alt": "Mobirise",
+              "link": "index.html",
+              "title": "",
+              "linkInNewWindow": false
+            },
+            "iconFont": {
+              "class": "mbr-iconfont mbr-iconfont-menu",
+              "link": "https://mobirise.com",
+              "size": 0
+            }
+          },
+          "brand": "<a class=\"navbar-caption\" data-app-btn=\"true\" data-app-selector=\".navbar-caption\" href=\"https://mobirise.com\" data-app-placeholder=\"Type Brand Name\" data-toolbar=\"-mbrBtnMove,-mbrBtnAdd,-mbrBtnRemove,mbrColor\"></a>",
+          "items": "<li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"index.html\">Home</a></li><li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"Überblick.html\">Überblick</a></li><li class=\"nav-item dropdown\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"Hilfe\" aria-expanded=\"false\">Hilfe</a></li><li class=\"nav-item dropdown\"><a data-app-btn=\"true\" class=\"nav-link link dropdown-toggle\" data-toggle=\"dropdown-submenu\" href=\"https://mobirise.com/\" aria-expanded=\"false\">Rechtliches</a><div class=\"dropdown-menu\"><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"AGB.html\">AGB</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"Datenschutzerklärung.html\">Datenschutzerklärung</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"Gebührenordnung.html\">Gebührenordnung</a></div></li><li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"Nutzer.html\" aria-expanded=\"false\">Nutzer</a></li><li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"Impressum.html\" aria-expanded=\"false\">Impressum</a></li><li class=\"nav-item nav-btn\"><a data-app-btn=\"true\" data-button=\"\" data-app-selector=\".btn\" class=\"nav-link btn btn-white btn-white-outline\" href=\"https://mobirise.com/\">DOWNLOAD</a></li>"
+        },
+        {
+          "_name": "footer1",
+          "_styles": {
+            "SPAN": {
+              "color": "#ffffff"
+            }
+          },
+          "_anchor": "footer1-c",
+          "_params": {
+            "paddingTop": 2,
+            "paddingBottom": 2,
+            "bgImageRadio": false,
+            "parallax": true,
+            "bgImage": "@THEME_PATH@/components/_images/jumbotron.jpg",
+            "bgColor": "#efefef",
+            "bgColorRadio": true,
+            "overlay": true,
+            "overlayOpacity": 0.8,
+            "overlayColor": "#444444"
+          },
+          "text": "<span style=\"font-size: 0.8125rem; line-height: 1.5; background-color: rgb(50, 50, 50);\">(c) 2017 frutra GbR Wolfgang Baumann, Samuel Fürle.</span><br>"
+        },
+        {
+          "_styles": {
+            ".mbr-section-title, .mbr-section-subtitle": {
+              "text-align": "center"
+            },
+            "H3": {
+              "font-family": "'Open Sans', sans-serif",
+              "googleLink": "https://fonts.googleapis.com/css?family=Open+Sans:400,300,700"
+            },
+            "SMALL": {
+              "font-size": "14px",
+              "font-family": "'Open Sans', sans-serif",
+              "googleLink": "https://fonts.googleapis.com/css?family=Open+Sans:400,300,700",
+              "color": "#000000"
+            },
+            "SPAN": {
+              "color": "#7c706b"
+            }
+          },
+          "_tags": [
+            "Theme"
+          ],
+          "_name": "header3",
+          "_anchor": "header3-d",
+          "_params": {
+            "paddingTop": "7",
+            "paddingBottom": 1,
+            "bgColor": "#fff",
+            "showMeta": true
+          },
+          "title": "<span style=\"font-weight: normal;\">Gebührenordnung</span>",
+          "meta": "Stand 01.05.2017&nbsp;"
+        },
+        {
+          "_tags": [
+            "Theme"
+          ],
+          "_name": "content1",
+          "_styles": {
+            "DIV": {
+              "font-family": "'Open Sans', sans-serif",
+              "googleLink": "https://fonts.googleapis.com/css?family=Open+Sans:400,300,700",
+              "font-size": "16px",
+              "text-align": "left"
+            }
+          },
+          "_anchor": "content1-e",
+          "_params": {
+            "paddingTop": 1,
+            "paddingBottom": 1,
+            "bgColor": "#fff"
+          },
+          "text": "<div><br></div><div>1. Registrierung und Mitgliedschaft</div><div>Die Registrierung und die Mitgliedschaft sind kostenlos.</div><div><br></div><div>2. Verkaufsgebühr</div><div>Kommt auf frutra zwischen zwei Mitgliedern ein Kaufvertrag über ein Produkt zustande, ist der jeweilige Verkäufer verpflichtet, an die frutra GbR 1 % (in Worten: ein Prozent) des Nettokaufpreises (ohne gesetzliche Umsatzsteuer) als Verkaufsgebühr zu entrichten. Zu der Verkaufsgebühr kommt die gesetzliche Umsatzsteuer hinzu.</div><div><br></div><div>3. Mengenabweichungen bei der Vertragserfüllung</div><div>Sollte es bei der Erfüllung des auf frutra geschlossen Kaufvertrages hinsichtlich der vereinbarten Menge oder des vereinbarten Kaufpreises Abweichungen nach unten geben, berührt dies die Höhe der Verkaufsgebühr nicht.</div><div><br></div><div>4. Sonstige Gebühren oder Entgelte</div><div>Sonstige Gebühren oder Entgelte werden nicht erhoben.</div><div><br></div><div>5. Ziffer 2 dieser Gebührenordnung gilt erst ab dem 01.07.2017. Bis dahin ist die Benutzung von frutra vollkommen kostenlos.&nbsp;</div>"
+        }
+      ]
+    },
+    "Überblick.html": {
+      "settings": {
+        "title": "Überblick",
+        "meta_descr": "Überblick"
+      },
+      "components": [
+        {
+          "_styles": {
+            ".hide-buttons .nav-btn": {
+              "display": "none !important"
+            },
+            ".navbar-caption": {
+              "color": "#ffffff"
+            },
+            ".navbar-toggler": {
+              "color": "#b8312f"
+            },
+            ".link, .dropdown-item": {
+              "color": "#b8312f",
+              "googleLink": "https://fonts.googleapis.com/css?family=Open+Sans:400,300,700",
+              "font-family": "'Open Sans', sans-serif"
+            },
+            ".link": {
+              "font-size": "1rem"
+            },
+            ".dropdown-item, .nav-dropdown-sm .link": {
+              "font-size": "1.083rem"
+            },
+            ".link:hover, .dropdown-item:hover, .link:focus, .dropdown-item:focus": {
+              "color": "@primaryColor"
+            },
+            ".link[aria-expanded=\"true\"], .dropdown-menu": {
+              "background": "#e6e6e6"
+            },
+            ".nav-dropdown-sm .link:focus, .nav-dropdown-sm .link:hover, .nav-dropdown-sm .dropdown-item:focus, .nav-dropdown-sm .dropdown-item:hover": {
+              "background": "#f7f7f7!important"
+            },
+            ".navbar, .nav-dropdown-sm, .nav-dropdown-sm .link[aria-expanded=\"true\"], .nav-dropdown-sm .dropdown-menu": {
+              "background": "#ffffff"
+            },
+            ".bg-color.transparent .link": {
+              "color": "#b8312f",
+              "transition": "none"
+            },
+            ".bg-color.transparent.opened .link": {
+              "transition": "color .2s ease-in-out"
+            },
+            ".bg-color.transparent.opened .link:hover, .bg-color.transparent.opened .link:focus": {
+              "color": "@primaryColor"
+            },
+            ".link[aria-expanded=\"true\"], .dropdown-item[aria-expanded=\"true\"]": {
+              "color": "#a38f84!important"
+            },
+            "&.mbr-navbar--stuck .mbr-navbar__section": {
+              "background": "#2c2c2c"
+            },
+            ".mbr-navbar__section": {},
+            ".mbr-navbar__hamburger": {
+              "color": "#ffffff"
+            },
+            ".close-icon::before, .close-icon::after": {
+              "background-color": "#b8312f"
+            }
+          },
+          "_name": "menu",
+          "_anchor": "menu-f",
+          "_params": {
+            "bgColor": "#ffffff",
+            "fontSize": "1",
+            "fontName": {
+              "name": "Open Sans",
+              "url": "https://fonts.googleapis.com/css?family=Open+Sans:400,300,700",
+              "css": "'Open Sans', sans-serif"
+            },
+            "fontColor": "#b8312f",
+            "fontHoverColor": "@primaryColor",
+            "transparent": false,
+            "sticky": false,
+            "logo": true,
+            "showBrand": false,
+            "collapsed": true,
+            "hideButtons": true
+          },
+          "logo": {
+            "image": {
+              "active": true,
+              "src": "@PROJECT_PATH@/assets/images/frutra-logo-207x128.jpg",
+              "height": 128,
+              "alt": "Mobirise",
+              "link": "index.html",
+              "title": "",
+              "linkInNewWindow": false
+            },
+            "iconFont": {
+              "class": "mbr-iconfont mbr-iconfont-menu",
+              "link": "https://mobirise.com",
+              "size": 0
+            }
+          },
+          "brand": "<a class=\"navbar-caption\" data-app-btn=\"true\" data-app-selector=\".navbar-caption\" href=\"https://mobirise.com\" data-app-placeholder=\"Type Brand Name\" data-toolbar=\"-mbrBtnMove,-mbrBtnAdd,-mbrBtnRemove,mbrColor\"></a>",
+          "items": "<li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"index.html\">Home</a></li><li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"Überblick.html\">Überblick</a></li><li class=\"nav-item dropdown\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"Hilfe\" aria-expanded=\"false\">Hilfe</a></li><li class=\"nav-item dropdown\"><a data-app-btn=\"true\" class=\"nav-link link dropdown-toggle\" data-toggle=\"dropdown-submenu\" href=\"https://mobirise.com/\" aria-expanded=\"false\">Rechtliches</a><div class=\"dropdown-menu\"><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"AGB.html\">AGB</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"Datenschutzerklärung.html\">Datenschutzerklärung</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"Gebührenordnung.html\">Gebührenordnung</a></div></li><li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"Nutzer.html\" aria-expanded=\"false\">Nutzer</a></li><li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"Impressum.html\" aria-expanded=\"false\">Impressum</a></li><li class=\"nav-item nav-btn\"><a data-app-btn=\"true\" data-button=\"\" data-app-selector=\".btn\" class=\"nav-link btn btn-white btn-white-outline\" href=\"https://mobirise.com/\">DOWNLOAD</a></li>"
+        },
+        {
+          "_tags": [
+            "Theme"
+          ],
+          "_name": "footer1",
+          "_styles": {
+            "SPAN": {
+              "color": "#ffffff"
+            }
+          },
+          "_anchor": "footer1-13",
+          "_params": {
+            "paddingTop": 2,
+            "paddingBottom": 2,
+            "bgImageRadio": false,
+            "parallax": true,
+            "bgImage": "@THEME_PATH@/components/_images/jumbotron.jpg",
+            "bgColor": "#efefef",
+            "bgColorRadio": true,
+            "overlay": true,
+            "overlayOpacity": 0.8,
+            "overlayColor": "#444444"
+          },
+          "text": "<span style=\"font-size: 0.8125rem; line-height: 1.5; background-color: rgb(50, 50, 50);\">(c) 2017 frutra GbR Wolfgang Baumann, Samuel Fürle.</span><br>"
+        },
+        {
+          "_tags": [
+            "Theme"
+          ],
+          "_name": "slider",
+          "_styles": {
+            "H2": {
+              "text-align": "right"
+            },
+            "P": {
+              "text-align": "right",
+              "font-size": "18px"
+            }
+          },
+          "_params": {
+            "autoplay": true,
+            "paddingTop": 3,
+            "paddingBottom": 3,
+            "timeout": "9",
+            "slides": [
+              {
+                "active": true,
+                "image": "@PROJECT_PATH@/assets/images/514990643-2000x1123.png",
+                "playVideo": false,
+                "videoUrl": "https://www.youtube.com/watch?v=uNCr7NdOJgw",
+                "overlay": true,
+                "contentAlign": "center",
+                "showTitle": true,
+                "title": "DIREKT",
+                "showText": true,
+                "text": "<br>Press- und Füllbetriebe kommen auf frutra ohne Umwege zusammen: 24 Stunden am Tag, 365 Tage im Jahr. Nur wenige Mausklicks – und schon können Sie Ihre Rohware anbieten oder gezielt Rohware suchen, immer auf dem schnellsten Weg zum Vertragsabschluss. frutra ist so das ideale B2B-Absatz- und Einkaufsinstrument für Grundstoffe.&nbsp;<br>",
+                "showButtons": true,
+                "buttons": "<a data-app-btn=\"true\" class=\"btn btn-lg btn-success\" href=\"https://mobirise.com\" data-toolbar=\"-mbrBtnMove\">ANMELDEN</a> <a data-app-btn=\"true\" class=\"btn btn-lg btn-white btn-white-outline\" href=\"https://mobirise.com\" data-toolbar=\"-mbrBtnMove\">REGISTRIEREN</a>"
+              },
+              {
+                "active": false,
+                "image": "@PROJECT_PATH@/assets/images/501027994-2000x1330.png",
+                "playVideo": false,
+                "videoUrl": "https://www.youtube.com/watch?v=uNCr7NdOJgw",
+                "overlay": true,
+                "contentAlign": "center",
+                "showTitle": true,
+                "title": "TRANSPARENT",
+                "showText": true,
+                "text": "Auf frutra bekommen Sie einen schnellen und umfassenden Überblick über die Marktlage – erst deutschland- und später weltweit. Sie können rechtssicher verhandeln, ohne Stunden am Telefon zu verbringen. Alle Verhandlungsschritte werden dokumentiert, der fertige Vertrag in einem PDF-Dokument fixiert. So gibt es keine Unklarheiten mehr.",
+                "showButtons": true,
+                "buttons": "<a data-app-btn=\"true\" class=\"btn btn-lg btn-success\" href=\"https://mobirise.com\" data-toolbar=\"-mbrBtnMove\">ANMELDEN</a> <a data-app-btn=\"true\" class=\"btn btn-lg btn-white btn-white-outline\" href=\"https://mobirise.com\" data-toolbar=\"-mbrBtnMove\">REGISTRIEREN</a>"
+              },
+              {
+                "active": false,
+                "image": "@PROJECT_PATH@/assets/images/611088150-2000x1333.png",
+                "playVideo": false,
+                "videoUrl": "https://www.youtube.com/watch?v=uNCr7NdOJgw",
+                "overlay": true,
+                "overlayOpacity": "0.4",
+                "contentAlign": "center",
+                "showTitle": true,
+                "title": "FAIR",
+                "showText": true,
+                "text": "Die Vorteile für Sie zeigen auch bei den Kosten von frutra: Für Sie als Käufer ist frutra komplett kostenlos. Als Verkäufer wird lediglich ein Prozent des Kaufpreises als Gebühr fällig. Registrierung und Mitgliedschaft sind kostenlos.",
+                "showButtons": true,
+                "buttons": "<a data-app-btn=\"true\" class=\"btn btn-lg btn-success\" href=\"https://mobirise.com\" data-toolbar=\"-mbrBtnMove\">ANMELDEN</a> <a data-app-btn=\"true\" class=\"btn btn-lg btn-white btn-white-outline\" href=\"https://mobirise.com\" data-toolbar=\"-mbrBtnMove\">REGISTRIEREN</a>"
+              }
+            ],
+            "fullScreen": true,
+            "bgColor": "#fff",
+            "showBullets": true
+          },
+          "_anchor": "slider-32",
+          "articleLayout": false
+        }
+      ]
+    },
+    "Impressum.html": {
+      "settings": {
+        "title": "Impressum",
+        "meta_descr": "Enthält das Impressum"
+      },
+      "components": [
+        {
+          "_styles": {
+            ".hide-buttons .nav-btn": {
+              "display": "none !important"
+            },
+            ".navbar-caption": {
+              "color": "#ffffff"
+            },
+            ".navbar-toggler": {
+              "color": "#b8312f"
+            },
+            ".link, .dropdown-item": {
+              "color": "#b8312f",
+              "googleLink": "https://fonts.googleapis.com/css?family=Open+Sans:400,300,700",
+              "font-family": "'Open Sans', sans-serif"
+            },
+            ".link": {
+              "font-size": "1rem"
+            },
+            ".dropdown-item, .nav-dropdown-sm .link": {
+              "font-size": "1.083rem"
+            },
+            ".link:hover, .dropdown-item:hover, .link:focus, .dropdown-item:focus": {
+              "color": "@primaryColor"
+            },
+            ".link[aria-expanded=\"true\"], .dropdown-menu": {
+              "background": "#e6e6e6"
+            },
+            ".nav-dropdown-sm .link:focus, .nav-dropdown-sm .link:hover, .nav-dropdown-sm .dropdown-item:focus, .nav-dropdown-sm .dropdown-item:hover": {
+              "background": "#f7f7f7!important"
+            },
+            ".navbar, .nav-dropdown-sm, .nav-dropdown-sm .link[aria-expanded=\"true\"], .nav-dropdown-sm .dropdown-menu": {
+              "background": "#ffffff"
+            },
+            ".bg-color.transparent .link": {
+              "color": "#b8312f",
+              "transition": "none"
+            },
+            ".bg-color.transparent.opened .link": {
+              "transition": "color .2s ease-in-out"
+            },
+            ".bg-color.transparent.opened .link:hover, .bg-color.transparent.opened .link:focus": {
+              "color": "@primaryColor"
+            },
+            ".link[aria-expanded=\"true\"], .dropdown-item[aria-expanded=\"true\"]": {
+              "color": "#a38f84!important"
+            },
+            "&.mbr-navbar--stuck .mbr-navbar__section": {
+              "background": "#2c2c2c"
+            },
+            ".mbr-navbar__section": {},
+            ".mbr-navbar__hamburger": {
+              "color": "#ffffff"
+            },
+            ".close-icon::before, .close-icon::after": {
+              "background-color": "#b8312f"
+            }
+          },
+          "_name": "menu",
+          "_anchor": "menu-1c",
+          "_params": {
+            "bgColor": "#ffffff",
+            "fontSize": "1",
+            "fontName": {
+              "name": "Open Sans",
+              "url": "https://fonts.googleapis.com/css?family=Open+Sans:400,300,700",
+              "css": "'Open Sans', sans-serif"
+            },
+            "fontColor": "#b8312f",
+            "fontHoverColor": "@primaryColor",
+            "transparent": false,
+            "sticky": false,
+            "logo": true,
+            "showBrand": false,
+            "collapsed": true,
+            "hideButtons": true
+          },
+          "logo": {
+            "image": {
+              "active": true,
+              "src": "@PROJECT_PATH@/assets/images/frutra-logo-207x128.jpg",
+              "height": 128,
+              "alt": "Mobirise",
+              "link": "index.html",
+              "title": "",
+              "linkInNewWindow": false
+            },
+            "iconFont": {
+              "class": "mbr-iconfont mbr-iconfont-menu",
+              "link": "https://mobirise.com",
+              "size": 0
+            }
+          },
+          "brand": "<a class=\"navbar-caption\" data-app-btn=\"true\" data-app-selector=\".navbar-caption\" href=\"https://mobirise.com\" data-app-placeholder=\"Type Brand Name\" data-toolbar=\"-mbrBtnMove,-mbrBtnAdd,-mbrBtnRemove,mbrColor\"></a>",
+          "items": "<li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"index.html\">Home</a></li><li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"Überblick.html\">Überblick</a></li><li class=\"nav-item dropdown\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"Hilfe\" aria-expanded=\"false\">Hilfe</a></li><li class=\"nav-item dropdown\"><a data-app-btn=\"true\" class=\"nav-link link dropdown-toggle\" data-toggle=\"dropdown-submenu\" href=\"https://mobirise.com/\" aria-expanded=\"false\">Rechtliches</a><div class=\"dropdown-menu\"><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"AGB.html\">AGB</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"Datenschutzerklärung.html\">Datenschutzerklärung</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"Gebührenordnung.html\">Gebührenordnung</a></div></li><li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"Nutzer.html\" aria-expanded=\"false\">Nutzer</a></li><li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"Impressum.html\" aria-expanded=\"false\">Impressum</a></li><li class=\"nav-item nav-btn\"><a data-app-btn=\"true\" data-button=\"\" data-app-selector=\".btn\" class=\"nav-link btn btn-white btn-white-outline\" href=\"https://mobirise.com/\">DOWNLOAD</a></li>"
+        },
+        {
+          "_name": "footer1",
+          "_styles": {
+            "SPAN": {
+              "color": "#ffffff"
+            }
+          },
+          "_anchor": "footer1-1d",
+          "_params": {
+            "paddingTop": 2,
+            "paddingBottom": 2,
+            "bgImageRadio": false,
+            "parallax": true,
+            "bgImage": "@THEME_PATH@/components/_images/jumbotron.jpg",
+            "bgColor": "#efefef",
+            "bgColorRadio": true,
+            "overlay": true,
+            "overlayOpacity": 0.8,
+            "overlayColor": "#444444"
+          },
+          "text": "<span style=\"font-size: 0.8125rem; line-height: 1.5; background-color: rgb(50, 50, 50);\">(c) 2017 frutra GbR Wolfgang Baumann, Samuel Fürle.</span><br>"
+        },
+        {
+          "_styles": {
+            ".mbr-section-title, .mbr-section-subtitle": {
+              "text-align": "center"
+            },
+            "H3": {
+              "font-family": "'Open Sans', sans-serif",
+              "googleLink": "https://fonts.googleapis.com/css?family=Open+Sans:400,300,700"
+            },
+            "SMALL": {
+              "font-size": "14px",
+              "font-family": "'Open Sans', sans-serif",
+              "googleLink": "https://fonts.googleapis.com/css?family=Open+Sans:400,300,700",
+              "color": "#000000"
+            },
+            "SPAN": {
+              "color": "#7c706b"
+            }
+          },
+          "_tags": [
+            "Theme"
+          ],
+          "_name": "header3",
+          "_anchor": "header3-1e",
+          "_params": {
+            "paddingTop": "7",
+            "paddingBottom": 1,
+            "bgColor": "#fff",
+            "showMeta": true
+          },
+          "title": "<span style=\"font-weight: normal;\">Impressum</span>",
+          "meta": "Angaben gemäß § 5 TMG<br>"
+        },
+        {
+          "_tags": [
+            "Theme"
+          ],
+          "_name": "content1",
+          "_styles": {
+            "DIV": {
+              "font-family": "'Open Sans', sans-serif",
+              "googleLink": "https://fonts.googleapis.com/css?family=Open+Sans:400,300,700",
+              "font-size": "16px",
+              "text-align": "left"
+            }
+          },
+          "_anchor": "content1-1f",
+          "_params": {
+            "paddingTop": 1,
+            "paddingBottom": 1,
+            "bgColor": "#fff"
+          },
+          "text": "<div>frutra GbR Wolfgang Baumann, Samuel Fürle</div><div>Turmstraße 5</div><div>77933 Lahr</div><div><br></div><div>Die frutra GbR wird vertreten durch Wolfgang Baumann und Samuel Fürle.</div><div><br></div><div>Telefon: 07821/9911-051</div><div>Telefax: 07821/9911-052</div><div>info@frutra.de</div><div>www.frutra.de</div><div><br></div><div>USt-ID: DE275493681</div><div><br></div><div>Verantwortlich für den Inhalt nach § 55 Abs. 2 RStV:</div><div>Wolfgang Baumann</div><div>Lindenmattenstraße 25</div><div>79117 Freiburg</div><div><br></div>"
+        }
+      ]
+    },
+    "Nutzer.html": {
+      "settings": {
+        "title": "Nutzer",
+        "meta_descr": "Nutzer"
+      },
+      "components": [
+        {
+          "_styles": {
+            ".hide-buttons .nav-btn": {
+              "display": "none !important"
+            },
+            ".navbar-caption": {
+              "color": "#ffffff"
+            },
+            ".navbar-toggler": {
+              "color": "#b8312f"
+            },
+            ".link, .dropdown-item": {
+              "color": "#b8312f",
+              "googleLink": "https://fonts.googleapis.com/css?family=Open+Sans:400,300,700",
+              "font-family": "'Open Sans', sans-serif"
+            },
+            ".link": {
+              "font-size": "1rem"
+            },
+            ".dropdown-item, .nav-dropdown-sm .link": {
+              "font-size": "1.083rem"
+            },
+            ".link:hover, .dropdown-item:hover, .link:focus, .dropdown-item:focus": {
+              "color": "@primaryColor"
+            },
+            ".link[aria-expanded=\"true\"], .dropdown-menu": {
+              "background": "#e6e6e6"
+            },
+            ".nav-dropdown-sm .link:focus, .nav-dropdown-sm .link:hover, .nav-dropdown-sm .dropdown-item:focus, .nav-dropdown-sm .dropdown-item:hover": {
+              "background": "#f7f7f7!important"
+            },
+            ".navbar, .nav-dropdown-sm, .nav-dropdown-sm .link[aria-expanded=\"true\"], .nav-dropdown-sm .dropdown-menu": {
+              "background": "#ffffff"
+            },
+            ".bg-color.transparent .link": {
+              "color": "#b8312f",
+              "transition": "none"
+            },
+            ".bg-color.transparent.opened .link": {
+              "transition": "color .2s ease-in-out"
+            },
+            ".bg-color.transparent.opened .link:hover, .bg-color.transparent.opened .link:focus": {
+              "color": "@primaryColor"
+            },
+            ".link[aria-expanded=\"true\"], .dropdown-item[aria-expanded=\"true\"]": {
+              "color": "#a38f84!important"
+            },
+            "&.mbr-navbar--stuck .mbr-navbar__section": {
+              "background": "#2c2c2c"
+            },
+            ".mbr-navbar__section": {},
+            ".mbr-navbar__hamburger": {
+              "color": "#ffffff"
+            },
+            ".close-icon::before, .close-icon::after": {
+              "background-color": "#b8312f"
+            }
+          },
+          "_name": "menu",
+          "_anchor": "menu-1n",
+          "_params": {
+            "bgColor": "#ffffff",
+            "fontSize": "1",
+            "fontName": {
+              "name": "Open Sans",
+              "url": "https://fonts.googleapis.com/css?family=Open+Sans:400,300,700",
+              "css": "'Open Sans', sans-serif"
+            },
+            "fontColor": "#b8312f",
+            "fontHoverColor": "@primaryColor",
+            "transparent": false,
+            "sticky": false,
+            "logo": true,
+            "showBrand": false,
+            "collapsed": true,
+            "hideButtons": true
+          },
+          "logo": {
+            "image": {
+              "active": true,
+              "src": "@PROJECT_PATH@/assets/images/frutra-logo-1-207x128.jpg",
+              "height": 128,
+              "alt": "Mobirise",
+              "link": "index.html",
+              "title": "",
+              "linkInNewWindow": false
+            },
+            "iconFont": {
+              "class": "mbr-iconfont mbr-iconfont-menu",
+              "link": "https://mobirise.com",
+              "size": 0
+            }
+          },
+          "brand": "<a class=\"navbar-caption\" data-app-btn=\"true\" data-app-selector=\".navbar-caption\" href=\"https://mobirise.com\" data-app-placeholder=\"Type Brand Name\" data-toolbar=\"-mbrBtnMove,-mbrBtnAdd,-mbrBtnRemove,mbrColor\"></a>",
+          "items": "<li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"index.html\">Home</a></li><li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"Überblick.html\">Überblick</a></li><li class=\"nav-item dropdown\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"Hilfe\" aria-expanded=\"false\">Hilfe</a></li><li class=\"nav-item dropdown\"><a data-app-btn=\"true\" class=\"nav-link link dropdown-toggle\" data-toggle=\"dropdown-submenu\" href=\"https://mobirise.com/\" aria-expanded=\"false\">Rechtliches</a><div class=\"dropdown-menu\"><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"AGB.html\">AGB</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"Datenschutzerklärung.html\">Datenschutzerklärung</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"Gebührenordnung.html\">Gebührenordnung</a></div></li><li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"Nutzer.html\" aria-expanded=\"false\">Nutzer</a></li><li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"Impressum.html\" aria-expanded=\"false\">Impressum</a></li><li class=\"nav-item nav-btn\"><a data-app-btn=\"true\" data-button=\"\" data-app-selector=\".btn\" class=\"nav-link btn btn-white btn-white-outline\" href=\"https://mobirise.com/\">DOWNLOAD</a></li>"
+        },
+        {
+          "_tags": [
+            "Theme"
+          ],
+          "_name": "footer1",
+          "_styles": {
+            "SPAN": {
+              "color": "#ffffff"
+            }
+          },
+          "_anchor": "footer1-1o",
+          "_params": {
+            "paddingTop": 2,
+            "paddingBottom": 2,
+            "bgImageRadio": false,
+            "parallax": true,
+            "bgImage": "@THEME_PATH@/components/_images/jumbotron.jpg",
+            "bgColor": "#ffffff",
+            "bgColorRadio": true,
+            "overlay": true,
+            "overlayOpacity": 0.8,
+            "overlayColor": "#444444"
+          },
+          "text": "<span style=\"font-size: 0.8125rem; line-height: 1.5; background-color: rgb(50, 50, 50);\">(c) 2017 frutra GbR Wolfgang Baumann, Samuel Fürle.</span><br>"
+        },
+        {
+          "_tags": [
+            "Theme"
+          ],
+          "_name": "header1",
+          "_anchor": "header1-1z",
+          "_params": {
+            "parallax": true,
+            "bgImageRadio": true,
+            "showArrow": false,
+            "bgImage": "@PROJECT_PATH@/assets/images/pb-besuch-deinen-saftladen-2016-300dpi-2000x1333.jpg",
+            "bgColor": "#000000",
+            "bgColorRadio": false,
+            "bgVideo": {
+              "url": "https://www.youtube.com/watch?v=uNCr7NdOJgw"
+            },
+            "bgVideoRadio": false,
+            "overlay": true,
+            "overlayOpacity": "0.6",
+            "overlayColor": "#000",
+            "contentAlign": "center",
+            "showTitle": true,
+            "showText": true,
+            "showButtons": false
+          },
+          "title": "Unsere Nutzer",
+          "text": "Diese Fruchtsaftkeltereien vertrauen bereits auf frutra. Wan tun Sie es?&nbsp;",
+          "buttons": "<a data-app-btn=\"true\" class=\"btn btn-lg btn-primary\" href=\"https://mobirise.com\">DOWNLOAD FOR WINDOWS</a> <a data-app-btn=\"true\" class=\"btn btn-lg btn-white btn-white-outline\" href=\"https://mobirise.com\">DOWNLOAD FOR MAC</a>"
+        },
+        {
+          "_inherit": "gallery1",
+          "_tags": [
+            "Theme"
+          ],
+          "_name": "gallery3",
+          "_styles": {
+            "LI": {
+              "color": "#ffffff",
+              "font-family": "'Open Sans', sans-serif",
+              "googleLink": "https://fonts.googleapis.com/css?family=Open+Sans:400,300,700"
+            }
+          },
+          "_params": {
+            "paddingTop": "4",
+            "paddingBottom": "2",
+            "images": [
+              {
+                "tags": "Animated",
+                "playVideo": false,
+                "videoUrl": "https://www.youtube.com/watch?v=uNCr7NdOJgw",
+                "videoPreview": "@THEME_PATH@/components/_images/gallery/preview.jpg",
+                "thumb": "@PROJECT_PATH@/assets/images/auer-logo-800x182.png",
+                "image": "@PROJECT_PATH@/assets/images/auer-logo.gif",
+                "caption": "Type caption here",
+                "active": false
+              },
+              {
+                "tags": "Animated",
+                "playVideo": false,
+                "videoUrl": "https://www.youtube.com/watch?v=uNCr7NdOJgw",
+                "videoPreview": "@THEME_PATH@/components/_images/gallery/preview.jpg",
+                "thumb": "@PROJECT_PATH@/assets/images/bentele-logo-2000x405-800x162.jpg",
+                "image": "@PROJECT_PATH@/assets/images/bentele-logo-2000x405.jpg",
+                "caption": "Type caption here",
+                "active": false
+              },
+              {
+                "tags": "Animated",
+                "playVideo": false,
+                "videoUrl": "https://www.youtube.com/watch?v=uNCr7NdOJgw",
+                "videoPreview": "@THEME_PATH@/components/_images/gallery/preview.jpg",
+                "thumb": "@PROJECT_PATH@/assets/images/bertrams-logo-2000x833-800x333.png",
+                "image": "@PROJECT_PATH@/assets/images/bertrams-logo-2000x833.png",
+                "caption": "Type caption here",
+                "active": false
+              },
+              {
+                "tags": "Animated",
+                "playVideo": false,
+                "videoUrl": "https://www.youtube.com/watch?v=uNCr7NdOJgw",
+                "videoPreview": "@THEME_PATH@/components/_images/gallery/preview.jpg",
+                "thumb": "@PROJECT_PATH@/assets/images/creydt-logo-2000x1295-800x518.png",
+                "image": "@PROJECT_PATH@/assets/images/creydt-logo-2000x1295.png",
+                "caption": "Type caption here",
+                "active": false
+              },
+              {
+                "tags": "Animated",
+                "playVideo": false,
+                "videoUrl": "https://www.youtube.com/watch?v=uNCr7NdOJgw",
+                "videoPreview": "@THEME_PATH@/components/_images/gallery/preview.jpg",
+                "thumb": "@PROJECT_PATH@/assets/images/dalbeck-logo-2000x1145-800x458.png",
+                "image": "@PROJECT_PATH@/assets/images/dalbeck-logo-2000x1145.png",
+                "caption": "Type caption here",
+                "active": false
+              },
+              {
+                "tags": "Animated",
+                "playVideo": false,
+                "videoUrl": "https://www.youtube.com/watch?v=uNCr7NdOJgw",
+                "videoPreview": "@THEME_PATH@/components/_images/gallery/preview.jpg",
+                "thumb": "@PROJECT_PATH@/assets/images/dany-logo-2000x1111-800x444.jpg",
+                "image": "@PROJECT_PATH@/assets/images/dany-logo-2000x1111.jpg",
+                "caption": "Type caption here",
+                "active": false
+              },
+              {
+                "tags": "Animated",
+                "playVideo": false,
+                "videoUrl": "https://www.youtube.com/watch?v=uNCr7NdOJgw",
+                "videoPreview": "@THEME_PATH@/components/_images/gallery/preview.jpg",
+                "thumb": "@PROJECT_PATH@/assets/images/dietz-logo-2000x1186-800x474.png",
+                "image": "@PROJECT_PATH@/assets/images/dietz-logo-2000x1186.png",
+                "caption": "Type caption here",
+                "active": false
+              },
+              {
+                "tags": "Animated",
+                "playVideo": false,
+                "videoUrl": "https://www.youtube.com/watch?v=uNCr7NdOJgw",
+                "videoPreview": "@THEME_PATH@/components/_images/gallery/preview.jpg",
+                "thumb": "@PROJECT_PATH@/assets/images/drr-logo-2000x870-800x348.png",
+                "image": "@PROJECT_PATH@/assets/images/drr-logo-2000x870.png",
+                "caption": "Type caption here",
+                "active": false
+              },
+              {
+                "tags": "Animated",
+                "playVideo": false,
+                "videoUrl": "https://www.youtube.com/watch?v=uNCr7NdOJgw",
+                "videoPreview": "@THEME_PATH@/components/_images/gallery/preview.jpg",
+                "thumb": "@PROJECT_PATH@/assets/images/fahner-logo-2000x1250-800x500.png",
+                "image": "@PROJECT_PATH@/assets/images/fahner-logo-2000x1250.png",
+                "caption": "Type caption here",
+                "active": false
+              },
+              {
+                "tags": "Animated",
+                "playVideo": false,
+                "videoUrl": "https://www.youtube.com/watch?v=uNCr7NdOJgw",
+                "videoPreview": "@THEME_PATH@/components/_images/gallery/preview.jpg",
+                "thumb": "@PROJECT_PATH@/assets/images/frubella-logo-2000x1645-800x658.png",
+                "image": "@PROJECT_PATH@/assets/images/frubella-logo-2000x1645.png",
+                "caption": "Type caption here",
+                "active": false
+              },
+              {
+                "tags": "Animated",
+                "playVideo": false,
+                "videoUrl": "https://www.youtube.com/watch?v=uNCr7NdOJgw",
+                "videoPreview": "@THEME_PATH@/components/_images/gallery/preview.jpg",
+                "thumb": "@PROJECT_PATH@/assets/images/frle-logo-2000x1527-800x610.png",
+                "image": "@PROJECT_PATH@/assets/images/frle-logo-2000x1527.png",
+                "caption": "Type caption here",
+                "active": false
+              },
+              {
+                "tags": "Animated",
+                "playVideo": false,
+                "videoUrl": "https://www.youtube.com/watch?v=uNCr7NdOJgw",
+                "videoPreview": "@THEME_PATH@/components/_images/gallery/preview.jpg",
+                "thumb": "@PROJECT_PATH@/assets/images/logo-hillmanns-2000x368-800x147.png",
+                "image": "@PROJECT_PATH@/assets/images/logo-hillmanns-2000x368.png",
+                "caption": "Type caption here",
+                "active": false
+              },
+              {
+                "tags": "Animated",
+                "playVideo": false,
+                "videoUrl": "https://www.youtube.com/watch?v=uNCr7NdOJgw",
+                "videoPreview": "@THEME_PATH@/components/_images/gallery/preview.jpg",
+                "thumb": "@PROJECT_PATH@/assets/images/grnewald-logo-2000x375-800x150.jpg",
+                "image": "@PROJECT_PATH@/assets/images/grnewald-logo-2000x375.jpg",
+                "caption": "Type caption here",
+                "active": false
+              },
+              {
+                "tags": "Animated",
+                "playVideo": false,
+                "videoUrl": "https://www.youtube.com/watch?v=uNCr7NdOJgw",
+                "videoPreview": "@THEME_PATH@/components/_images/gallery/preview.jpg",
+                "thumb": "@PROJECT_PATH@/assets/images/haeussermann-logo-800x201.png",
+                "image": "@PROJECT_PATH@/assets/images/haeussermann-logo.gif",
+                "caption": "Type caption here",
+                "active": false
+              },
+              {
+                "tags": "Animated",
+                "playVideo": false,
+                "videoUrl": "https://www.youtube.com/watch?v=uNCr7NdOJgw",
+                "videoPreview": "@THEME_PATH@/components/_images/gallery/preview.jpg",
+                "thumb": "@PROJECT_PATH@/assets/images/hellerauerschne-logo-2000x728-800x291.png",
+                "image": "@PROJECT_PATH@/assets/images/hellerauerschne-logo-2000x728.png",
+                "caption": "Type caption here",
+                "active": false
+              },
+              {
+                "tags": "Animated",
+                "playVideo": false,
+                "videoUrl": "https://www.youtube.com/watch?v=uNCr7NdOJgw",
+                "videoPreview": "@THEME_PATH@/components/_images/gallery/preview.jpg",
+                "thumb": "@PROJECT_PATH@/assets/images/hohenloher-logo-2000x220-800x88.jpg",
+                "image": "@PROJECT_PATH@/assets/images/hohenloher-logo-2000x220.jpg",
+                "caption": "Type caption here",
+                "active": false
+              },
+              {
+                "tags": "Animated",
+                "playVideo": false,
+                "videoUrl": "https://www.youtube.com/watch?v=uNCr7NdOJgw",
+                "videoPreview": "@THEME_PATH@/components/_images/gallery/preview.jpg",
+                "thumb": "@PROJECT_PATH@/assets/images/hofmann-logo-2000x285-800x114.png",
+                "image": "@PROJECT_PATH@/assets/images/hofmann-logo-2000x285.png",
+                "caption": "Type caption here",
+                "active": true
+              },
+              {
+                "tags": "Animated",
+                "playVideo": false,
+                "videoUrl": "https://www.youtube.com/watch?v=uNCr7NdOJgw",
+                "videoPreview": "@THEME_PATH@/components/_images/gallery/preview.jpg",
+                "thumb": "@PROJECT_PATH@/assets/images/junginger-logo-2000x810-800x324.png",
+                "image": "@PROJECT_PATH@/assets/images/junginger-logo-2000x810.png",
+                "caption": "Type caption here",
+                "active": false
+              },
+              {
+                "tags": "Animated",
+                "playVideo": false,
+                "videoUrl": "https://www.youtube.com/watch?v=uNCr7NdOJgw",
+                "videoPreview": "@THEME_PATH@/components/_images/gallery/preview.jpg",
+                "thumb": "@PROJECT_PATH@/assets/images/kelterei-heil-2000x387-800x154.png",
+                "image": "@PROJECT_PATH@/assets/images/kelterei-heil-2000x387.png",
+                "caption": "Type caption here",
+                "active": false
+              },
+              {
+                "tags": "Animated",
+                "playVideo": false,
+                "videoUrl": "https://www.youtube.com/watch?v=uNCr7NdOJgw",
+                "videoPreview": "@THEME_PATH@/components/_images/gallery/preview.jpg",
+                "thumb": "@PROJECT_PATH@/assets/images/kern-logo-2000x436-800x174.png",
+                "image": "@PROJECT_PATH@/assets/images/kern-logo-2000x436.png",
+                "caption": "Type caption here",
+                "active": false
+              },
+              {
+                "tags": "Animated",
+                "playVideo": false,
+                "videoUrl": "https://www.youtube.com/watch?v=uNCr7NdOJgw",
+                "videoPreview": "@THEME_PATH@/components/_images/gallery/preview.jpg",
+                "thumb": "@PROJECT_PATH@/assets/images/kinella-logo-2000x591-800x236.png",
+                "image": "@PROJECT_PATH@/assets/images/kinella-logo-2000x591.png",
+                "caption": "Type caption here",
+                "active": false
+              },
+              {
+                "tags": "Animated",
+                "playVideo": false,
+                "videoUrl": "https://www.youtube.com/watch?v=uNCr7NdOJgw",
+                "videoPreview": "@THEME_PATH@/components/_images/gallery/preview.jpg",
+                "thumb": "@PROJECT_PATH@/assets/images/krmer-logo-2000x1156-800x462.png",
+                "image": "@PROJECT_PATH@/assets/images/krmer-logo-2000x1156.png",
+                "caption": "Type caption here",
+                "active": false
+              },
+              {
+                "tags": "Animated",
+                "playVideo": false,
+                "videoUrl": "https://www.youtube.com/watch?v=uNCr7NdOJgw",
+                "videoPreview": "@THEME_PATH@/components/_images/gallery/preview.jpg",
+                "thumb": "@PROJECT_PATH@/assets/images/kromer-logo-2000x576-800x230.png",
+                "image": "@PROJECT_PATH@/assets/images/kromer-logo-2000x576.png",
+                "caption": "Type caption here",
+                "active": false
+              },
+              {
+                "tags": "Animated",
+                "playVideo": false,
+                "videoUrl": "https://www.youtube.com/watch?v=uNCr7NdOJgw",
+                "videoPreview": "@THEME_PATH@/components/_images/gallery/preview.jpg",
+                "thumb": "@PROJECT_PATH@/assets/images/lauwerth-logo-2000x1872-800x748.png",
+                "image": "@PROJECT_PATH@/assets/images/lauwerth-logo-2000x1872.png",
+                "caption": "Type caption here",
+                "active": false
+              },
+              {
+                "tags": "Animated",
+                "playVideo": false,
+                "videoUrl": "https://www.youtube.com/watch?v=uNCr7NdOJgw",
+                "videoPreview": "@THEME_PATH@/components/_images/gallery/preview.jpg",
+                "thumb": "@PROJECT_PATH@/assets/images/lindemann-logo-2000x894-800x357.png",
+                "image": "@PROJECT_PATH@/assets/images/lindemann-logo-2000x894.png",
+                "caption": "Type caption here",
+                "active": false
+              },
+              {
+                "tags": "Animated",
+                "playVideo": false,
+                "videoUrl": "https://www.youtube.com/watch?v=uNCr7NdOJgw",
+                "videoPreview": "@THEME_PATH@/components/_images/gallery/preview.jpg",
+                "thumb": "@PROJECT_PATH@/assets/images/linke-logo-2000x1524-800x609.png",
+                "image": "@PROJECT_PATH@/assets/images/linke-logo-2000x1524.png",
+                "caption": "Type caption here",
+                "active": false
+              },
+              {
+                "tags": "Animated",
+                "playVideo": false,
+                "videoUrl": "https://www.youtube.com/watch?v=uNCr7NdOJgw",
+                "videoPreview": "@THEME_PATH@/components/_images/gallery/preview.jpg",
+                "thumb": "@PROJECT_PATH@/assets/images/ltauer-logo-2000x320-800x128.png",
+                "image": "@PROJECT_PATH@/assets/images/ltauer-logo-2000x320.png",
+                "caption": "Type caption here",
+                "active": false
+              },
+              {
+                "tags": "Animated",
+                "playVideo": false,
+                "videoUrl": "https://www.youtube.com/watch?v=uNCr7NdOJgw",
+                "videoPreview": "@THEME_PATH@/components/_images/gallery/preview.jpg",
+                "thumb": "@PROJECT_PATH@/assets/images/merg-logo-2000x1502-800x600.png",
+                "image": "@PROJECT_PATH@/assets/images/merg-logo-2000x1502.png",
+                "caption": "Type caption here",
+                "active": false
+              },
+              {
+                "tags": "Animated",
+                "playVideo": false,
+                "videoUrl": "https://www.youtube.com/watch?v=uNCr7NdOJgw",
+                "videoPreview": "@THEME_PATH@/components/_images/gallery/preview.jpg",
+                "thumb": "@PROJECT_PATH@/assets/images/mbus-logo-2000x1541-800x616.jpg",
+                "image": "@PROJECT_PATH@/assets/images/mbus-logo-2000x1541.jpg",
+                "caption": "Type caption here",
+                "active": false
+              },
+              {
+                "tags": "Animated",
+                "playVideo": false,
+                "videoUrl": "https://www.youtube.com/watch?v=uNCr7NdOJgw",
+                "videoPreview": "@THEME_PATH@/components/_images/gallery/preview.jpg",
+                "thumb": "@PROJECT_PATH@/assets/images/possmann-logo-2000x192-800x76.png",
+                "image": "@PROJECT_PATH@/assets/images/possmann-logo-2000x192.png",
+                "caption": "Type caption here",
+                "active": false
+              },
+              {
+                "tags": "Animated",
+                "playVideo": false,
+                "videoUrl": "https://www.youtube.com/watch?v=uNCr7NdOJgw",
+                "videoPreview": "@THEME_PATH@/components/_images/gallery/preview.jpg",
+                "thumb": "@PROJECT_PATH@/assets/images/rapp-logo-800x627.png",
+                "image": "@PROJECT_PATH@/assets/images/rapp-logo.gif",
+                "caption": "Type caption here",
+                "active": false
+              },
+              {
+                "tags": "Animated",
+                "playVideo": false,
+                "videoUrl": "https://www.youtube.com/watch?v=uNCr7NdOJgw",
+                "videoPreview": "@THEME_PATH@/components/_images/gallery/preview.jpg",
+                "thumb": "@PROJECT_PATH@/assets/images/schmitt-logo-2000x1052-800x420.jpg",
+                "image": "@PROJECT_PATH@/assets/images/schmitt-logo-2000x1052.jpg",
+                "caption": "Type caption here",
+                "active": false
+              },
+              {
+                "tags": "Animated",
+                "playVideo": false,
+                "videoUrl": "https://www.youtube.com/watch?v=uNCr7NdOJgw",
+                "videoPreview": "@THEME_PATH@/components/_images/gallery/preview.jpg",
+                "thumb": "@PROJECT_PATH@/assets/images/schwab-logo-2000x1532-800x612.png",
+                "image": "@PROJECT_PATH@/assets/images/schwab-logo-2000x1532.png",
+                "caption": "Type caption here",
+                "active": false
+              },
+              {
+                "tags": "Animated",
+                "playVideo": false,
+                "videoUrl": "https://www.youtube.com/watch?v=uNCr7NdOJgw",
+                "videoPreview": "@THEME_PATH@/components/_images/gallery/preview.jpg",
+                "thumb": "@PROJECT_PATH@/assets/images/siemer-logo-2000x229-800x91.png",
+                "image": "@PROJECT_PATH@/assets/images/siemer-logo-2000x229.png",
+                "caption": "Type caption here",
+                "active": false
+              },
+              {
+                "tags": "Animated",
+                "playVideo": false,
+                "videoUrl": "https://www.youtube.com/watch?v=uNCr7NdOJgw",
+                "videoPreview": "@THEME_PATH@/components/_images/gallery/preview.jpg",
+                "thumb": "@PROJECT_PATH@/assets/images/sder-logo-2000x249-800x99.jpg",
+                "image": "@PROJECT_PATH@/assets/images/sder-logo-2000x249.jpg",
+                "caption": "Type caption here",
+                "active": false
+              },
+              {
+                "tags": "Animated",
+                "playVideo": false,
+                "videoUrl": "https://www.youtube.com/watch?v=uNCr7NdOJgw",
+                "videoPreview": "@THEME_PATH@/components/_images/gallery/preview.jpg",
+                "thumb": "@PROJECT_PATH@/assets/images/sotzbacher-logo-2000x954-800x381.png",
+                "image": "@PROJECT_PATH@/assets/images/sotzbacher-logo-2000x954.png",
+                "caption": "Type caption here",
+                "active": false
+              },
+              {
+                "tags": "Animated",
+                "playVideo": false,
+                "videoUrl": "https://www.youtube.com/watch?v=uNCr7NdOJgw",
+                "videoPreview": "@THEME_PATH@/components/_images/gallery/preview.jpg",
+                "thumb": "@PROJECT_PATH@/assets/images/steinmeier-logo-2000x1134-800x453.jpg",
+                "image": "@PROJECT_PATH@/assets/images/steinmeier-logo-2000x1134.jpg",
+                "caption": "Type caption here",
+                "active": false
+              },
+              {
+                "tags": "Animated",
+                "playVideo": false,
+                "videoUrl": "https://www.youtube.com/watch?v=uNCr7NdOJgw",
+                "videoPreview": "@THEME_PATH@/components/_images/gallery/preview.jpg",
+                "thumb": "@PROJECT_PATH@/assets/images/stenger-logo-2000x1862-800x744.png",
+                "image": "@PROJECT_PATH@/assets/images/stenger-logo-2000x1862.png",
+                "caption": "Type caption here",
+                "active": false
+              },
+              {
+                "tags": "Animated",
+                "playVideo": false,
+                "videoUrl": "https://www.youtube.com/watch?v=uNCr7NdOJgw",
+                "videoPreview": "@THEME_PATH@/components/_images/gallery/preview.jpg",
+                "thumb": "@PROJECT_PATH@/assets/images/stiefel-logo-2000x1004-800x401.png",
+                "image": "@PROJECT_PATH@/assets/images/stiefel-logo-2000x1004.png",
+                "caption": "Type caption here",
+                "active": false
+              },
+              {
+                "tags": "Animated",
+                "playVideo": false,
+                "videoUrl": "https://www.youtube.com/watch?v=uNCr7NdOJgw",
+                "videoPreview": "@THEME_PATH@/components/_images/gallery/preview.jpg",
+                "thumb": "@PROJECT_PATH@/assets/images/trageer-logo-2000x453-800x181.jpg",
+                "image": "@PROJECT_PATH@/assets/images/trageer-logo-2000x453.jpg",
+                "caption": "Type caption here",
+                "active": false
+              },
+              {
+                "tags": "Animated",
+                "playVideo": false,
+                "videoUrl": "https://www.youtube.com/watch?v=uNCr7NdOJgw",
+                "videoPreview": "@THEME_PATH@/components/_images/gallery/preview.jpg",
+                "thumb": "@PROJECT_PATH@/assets/images/walther-bruchkbel-logo-2000x1306-800x522.png",
+                "image": "@PROJECT_PATH@/assets/images/walther-bruchkbel-logo-2000x1306.png",
+                "caption": "Type caption here",
+                "active": false
+              },
+              {
+                "tags": "Animated",
+                "playVideo": false,
+                "videoUrl": "https://www.youtube.com/watch?v=uNCr7NdOJgw",
+                "videoPreview": "@THEME_PATH@/components/_images/gallery/preview.jpg",
+                "thumb": "@PROJECT_PATH@/assets/images/walther-logo-2000x1195-800x478.png",
+                "image": "@PROJECT_PATH@/assets/images/walther-logo-2000x1195.png",
+                "caption": "Type caption here",
+                "active": false
+              },
+              {
+                "tags": "Animated",
+                "playVideo": false,
+                "videoUrl": "https://www.youtube.com/watch?v=uNCr7NdOJgw",
+                "videoPreview": "@THEME_PATH@/components/_images/gallery/preview.jpg",
+                "thumb": "@PROJECT_PATH@/assets/images/weber-logo-2000x436-800x174.jpg",
+                "image": "@PROJECT_PATH@/assets/images/weber-logo-2000x436.jpg",
+                "caption": "Type caption here",
+                "active": false
+              },
+              {
+                "tags": "Animated",
+                "playVideo": false,
+                "videoUrl": "https://www.youtube.com/watch?v=uNCr7NdOJgw",
+                "videoPreview": "@THEME_PATH@/components/_images/gallery/preview.jpg",
+                "thumb": "@PROJECT_PATH@/assets/images/wekenmann-logo-2000x261-800x104.jpg",
+                "image": "@PROJECT_PATH@/assets/images/wekenmann-logo-2000x261.jpg",
+                "caption": "Type caption here",
+                "active": false
+              },
+              {
+                "tags": "Animated",
+                "playVideo": false,
+                "videoUrl": "https://www.youtube.com/watch?v=uNCr7NdOJgw",
+                "videoPreview": "@THEME_PATH@/components/_images/gallery/preview.jpg",
+                "thumb": "@PROJECT_PATH@/assets/images/widmaier-logo-2000x819-800x327.png",
+                "image": "@PROJECT_PATH@/assets/images/widmaier-logo-2000x819.png",
+                "caption": "Type caption here",
+                "active": false
+              },
+              {
+                "tags": "Animated",
+                "playVideo": false,
+                "videoUrl": "https://www.youtube.com/watch?v=uNCr7NdOJgw",
+                "videoPreview": "@THEME_PATH@/components/_images/gallery/preview.jpg",
+                "thumb": "@PROJECT_PATH@/assets/images/wrner-logo-2000x1560-800x624.jpg",
+                "image": "@PROJECT_PATH@/assets/images/wrner-logo-2000x1560.jpg",
+                "caption": "Type caption here",
+                "active": false
+              },
+              {
+                "tags": "Animated",
+                "playVideo": false,
+                "videoUrl": "https://www.youtube.com/watch?v=uNCr7NdOJgw",
+                "videoPreview": "@THEME_PATH@/components/_images/gallery/preview.jpg",
+                "thumb": "@PROJECT_PATH@/assets/images/wustlich-logo-800x100.png",
+                "image": "@PROJECT_PATH@/assets/images/wustlich-logo.gif",
+                "caption": "Type caption here",
+                "active": false
+              }
+            ],
+            "spacing": "4",
+            "showText": false,
+            "filter": false,
+            "bgColor": "#ffffff",
+            "filterBgColor": true,
+            "fullWidth": true,
+            "showBullets": true
+          },
+          "_anchor": "gallery3-20",
+          "articleLayout": false,
+          "allItem": "All"
+        }
+      ]
+    },
+    "Hilfe.html": {
+      "settings": {
+        "title": "Hilfe",
+        "meta_descr": "Hilfe"
+      },
+      "components": [
+        {
+          "_styles": {
+            ".mbr-section-title, p": {
+              "color": "#fff"
+            },
+            ".mbr-section-title": {
+              "text-align": "center",
+              "color": "#ffffff"
+            }
+          },
+          "_tags": [
+            "Theme"
+          ],
+          "_name": "msg-box8",
+          "_anchor": "msg-box8-26",
+          "_params": {
+            "paddingTop": "3",
+            "paddingBottom": "5",
+            "parallax": false,
+            "bgImageRadio": true,
+            "bgImage": "@PROJECT_PATH@/assets/images/apfel-hand-2000x1332.png",
+            "bgColor": "#F2F2F2",
+            "bgColorRadio": false,
+            "bgVideo": {
+              "url": "https://www.youtube.com/watch?v=uNCr7NdOJgw"
+            },
+            "bgVideoRadio": false,
+            "overlay": true,
+            "overlayOpacity": "0.3",
+            "overlayColor": "#000000",
+            "showTitle": true,
+            "showText": false,
+            "showButton": false
+          },
+          "title": "frutra in 12 Fragen",
+          "text": "<p>Article header with background image and parallax effect.</p>",
+          "button": "<a data-app-btn=\"true\" class=\"btn btn-secondary\" href=\"https://mobirise.com\">SEE ALL TEMPLATES</a>"
+        },
+        {
+          "_styles": {
+            ".mbr-section-title, .mbr-section-subtitle": {
+              "text-align": "center"
+            },
+            "H3": {
+              "text-align": "right",
+              "color": "#b8312f",
+              "font-size": "36px"
+            }
+          },
+          "_tags": [
+            "Theme"
+          ],
+          "_name": "header3",
+          "_anchor": "header3-24",
+          "_params": {
+            "paddingTop": "7",
+            "paddingBottom": "0",
+            "bgColor": "#fff",
+            "showMeta": false
+          },
+          "title": "An wen richtet sich frutra?",
+          "meta": "By John Smith posted July 20, 2016"
+        },
+        {
+          "_tags": [
+            "Theme"
+          ],
+          "_name": "content1",
+          "_anchor": "content1-25",
+          "_params": {
+            "paddingTop": 1,
+            "paddingBottom": 1,
+            "bgColor": "#fff"
+          },
+          "text": "frutra ist eine B2B-Handelsplattform für die Fruchtsaftbranche, die ausschließlich Fruchtsaftkeltereien offensteht. Diese finden für Deutschland und bald weltweit einen geschützen Marktplatz. Denn jede Registrierung wird von uns überprüft, bevor sie freigeschaltet wird. So wird verhindert, dass sich jemand anderes als eine Fruchtsaftkelterei anmeldet."
+        },
+        {
+          "_styles": {
+            ".mbr-section-title, .mbr-section-subtitle": {
+              "text-align": "center"
+            },
+            "H3": {
+              "color": "#b8312f",
+              "text-align": "right",
+              "font-size": "36px"
+            }
+          },
+          "_tags": [
+            "Theme"
+          ],
+          "_name": "header3",
+          "_anchor": "header3-29",
+          "_params": {
+            "paddingTop": 1,
+            "paddingBottom": 1,
+            "bgColor": "#fff",
+            "showMeta": false
+          },
+          "title": "Was kostet frutra?&nbsp;",
+          "meta": "By John Smith posted July 20, 2016"
+        },
+        {
+          "_tags": [
+            "Theme"
+          ],
+          "_name": "content1",
+          "_anchor": "content1-28",
+          "_params": {
+            "paddingTop": 1,
+            "paddingBottom": 1,
+            "bgColor": "#fff"
+          },
+          "text": "Anmeldung und Mitgliedschaft sind kostenlos. Bei jedem Vertragsabschluss wird eine Gebühr in Höhe von einem Prozent des jeweiligen Kaufpreises fällig. Diese Gebühr trägt der Verkäufer. Für Käufer ist frutra also komplett kostenlos. Bis zum XX.XX.2017 erlassen wir allen Verkäufern als Geschenk zum Start die Gebühr. Näheres entnehmen Sie bitte unserer <a href=\"Gebührenordnung.html\">Gebührenordnung</a> oder fragen Sie uns einfach!"
+        },
+        {
+          "_styles": {
+            ".hide-buttons .nav-btn": {
+              "display": "none !important"
+            },
+            ".navbar-caption": {
+              "color": "#ffffff"
+            },
+            ".navbar-toggler": {
+              "color": "#b8312f"
+            },
+            ".link, .dropdown-item": {
+              "color": "#b8312f",
+              "googleLink": "https://fonts.googleapis.com/css?family=Open+Sans:400,300,700",
+              "font-family": "'Open Sans', sans-serif"
+            },
+            ".link": {
+              "font-size": "1rem"
+            },
+            ".dropdown-item, .nav-dropdown-sm .link": {
+              "font-size": "1.083rem"
+            },
+            ".link:hover, .dropdown-item:hover, .link:focus, .dropdown-item:focus": {
+              "color": "@primaryColor"
+            },
+            ".link[aria-expanded=\"true\"], .dropdown-menu": {
+              "background": "#e6e6e6"
+            },
+            ".nav-dropdown-sm .link:focus, .nav-dropdown-sm .link:hover, .nav-dropdown-sm .dropdown-item:focus, .nav-dropdown-sm .dropdown-item:hover": {
+              "background": "#f7f7f7!important"
+            },
+            ".navbar, .nav-dropdown-sm, .nav-dropdown-sm .link[aria-expanded=\"true\"], .nav-dropdown-sm .dropdown-menu": {
+              "background": "#ffffff"
+            },
+            ".bg-color.transparent .link": {
+              "color": "#b8312f",
+              "transition": "none"
+            },
+            ".bg-color.transparent.opened .link": {
+              "transition": "color .2s ease-in-out"
+            },
+            ".bg-color.transparent.opened .link:hover, .bg-color.transparent.opened .link:focus": {
+              "color": "@primaryColor"
+            },
+            ".link[aria-expanded=\"true\"], .dropdown-item[aria-expanded=\"true\"]": {
+              "color": "#a38f84!important"
+            },
+            "&.mbr-navbar--stuck .mbr-navbar__section": {
+              "background": "#2c2c2c"
+            },
+            ".mbr-navbar__section": {},
+            ".mbr-navbar__hamburger": {
+              "color": "#ffffff"
+            },
+            ".close-icon::before, .close-icon::after": {
+              "background-color": "#b8312f"
+            }
+          },
+          "_name": "menu",
+          "_anchor": "menu-12",
+          "_params": {
+            "bgColor": "#ffffff",
+            "fontSize": "1",
+            "fontName": {
+              "name": "Open Sans",
+              "url": "https://fonts.googleapis.com/css?family=Open+Sans:400,300,700",
+              "css": "'Open Sans', sans-serif"
+            },
+            "fontColor": "#b8312f",
+            "fontHoverColor": "@primaryColor",
+            "transparent": false,
+            "sticky": false,
+            "logo": true,
+            "showBrand": false,
+            "collapsed": true,
+            "hideButtons": true
+          },
+          "logo": {
+            "image": {
+              "active": true,
+              "src": "@PROJECT_PATH@/assets/images/frutra-logo-207x128.jpg",
+              "height": 128,
+              "alt": "Mobirise",
+              "link": "index.html",
+              "title": "",
+              "linkInNewWindow": false
+            },
+            "iconFont": {
+              "class": "mbr-iconfont mbr-iconfont-menu",
+              "link": "https://mobirise.com",
+              "size": 0
+            }
+          },
+          "brand": "<a class=\"navbar-caption\" data-app-btn=\"true\" data-app-selector=\".navbar-caption\" href=\"https://mobirise.com\" data-app-placeholder=\"Type Brand Name\" data-toolbar=\"-mbrBtnMove,-mbrBtnAdd,-mbrBtnRemove,mbrColor\"></a>",
+          "items": "<li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"index.html\">Home</a></li><li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"Überblick.html\">Überblick</a></li><li class=\"nav-item dropdown\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"Hilfe\" aria-expanded=\"false\">Hilfe</a></li><li class=\"nav-item dropdown\"><a data-app-btn=\"true\" class=\"nav-link link dropdown-toggle\" data-toggle=\"dropdown-submenu\" href=\"https://mobirise.com/\" aria-expanded=\"false\">Rechtliches</a><div class=\"dropdown-menu\"><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"AGB.html\">AGB</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"Datenschutzerklärung.html\">Datenschutzerklärung</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"Gebührenordnung.html\">Gebührenordnung</a></div></li><li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"Nutzer.html\" aria-expanded=\"false\">Nutzer</a></li><li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"Impressum.html\" aria-expanded=\"false\">Impressum</a></li><li class=\"nav-item nav-btn\"><a data-app-btn=\"true\" data-button=\"\" data-app-selector=\".btn\" class=\"nav-link btn btn-white btn-white-outline\" href=\"https://mobirise.com/\">DOWNLOAD</a></li>"
+        },
+        {
+          "_tags": [
+            "Theme"
+          ],
+          "_name": "footer1",
+          "_styles": {
+            "SPAN": {
+              "color": "#ffffff"
+            }
+          },
+          "_anchor": "footer1-13",
+          "_params": {
+            "paddingTop": 2,
+            "paddingBottom": 2,
+            "bgImageRadio": false,
+            "parallax": true,
+            "bgImage": "@THEME_PATH@/components/_images/jumbotron.jpg",
+            "bgColor": "#efefef",
+            "bgColorRadio": true,
+            "overlay": true,
+            "overlayOpacity": 0.8,
+            "overlayColor": "#444444"
+          },
+          "text": "<span style=\"font-size: 0.8125rem; line-height: 1.5; background-color: rgb(50, 50, 50);\">(c) 2017 frutra GbR Wolfgang Baumann, Samuel Fürle.</span><br>"
+        },
+        {
+          "_styles": {
+            ".mbr-section-title, .mbr-section-subtitle": {
+              "text-align": "center"
+            },
+            "H3": {
+              "color": "#b8312f",
+              "font-size": "36px"
+            }
+          },
+          "_tags": [
+            "Theme"
+          ],
+          "_name": "header3",
+          "_anchor": "header3-2a",
+          "_params": {
+            "paddingTop": 1,
+            "paddingBottom": 1,
+            "bgColor": "#fff",
+            "showMeta": false
+          },
+          "title": "Warum muss ich so viele Daten bei der Registrierung angeben?",
+          "meta": "By John Smith posted July 20, 2016"
+        },
+        {
+          "_tags": [
+            "Theme"
+          ],
+          "_name": "content1",
+          "_anchor": "content1-2b",
+          "_params": {
+            "paddingTop": 1,
+            "paddingBottom": 1,
+            "bgColor": "#fff"
+          },
+          "text": "Dass wir so viele Daten abfragen, hat allein rechtliche Gründe und schützt Sie und uns vor teuren und überflüssigen Abmahnungen. Hintergrund: Die Angebote und Gesuche, die Sie auf frutra veröffentlichen, unterliegen wie normale Websites der Impressumspflicht des § 5 des Telemediengesetzes. Den Gesetzestext finden Sie <a href=\"http://www.gesetze-im-internet.de/tmg/__5.html\">hier</a>.<div><br></div><div>Dadurch wissen Sie aber immer, mit wem genau Sie verhandeln. Außerdem können wir anhand der Daten genau überprüfen, wer sich bei frutra anmeldet. Das schützt Sie und uns vor unliebsamen Überraschungen.</div>"
+        },
+        {
+          "_styles": {
+            ".mbr-section-title, .mbr-section-subtitle": {
+              "text-align": "center"
+            },
+            "H3": {
+              "color": "#b8312f",
+              "font-size": "36px"
+            }
+          },
+          "_tags": [
+            "Theme"
+          ],
+          "_name": "header3",
+          "_anchor": "header3-2c",
+          "_params": {
+            "paddingTop": 1,
+            "paddingBottom": 1,
+            "bgColor": "#fff",
+            "showMeta": false
+          },
+          "title": "Was ist das Cockpit?",
+          "meta": "By John Smith posted July 20, 2016"
+        },
+        {
+          "_tags": [
+            "Theme"
+          ],
+          "_name": "content1",
+          "_anchor": "content1-2d",
+          "_params": {
+            "paddingTop": 1,
+            "paddingBottom": 1,
+            "bgColor": "#fff"
+          },
+          "text": "<p>Wenn Sie sich auf frutra einloggen, wird Ihnen im Cockpit alles Wesentliche auf einen Blick angezeigt. Oben auf der Seite finden Sie Ihre aktuellsten Verhandlungen mit anderen Usern, bei denen Sie am Zug sind („Meine Entscheidung“). Wenn es gerade keine Verhandlung gibt, bei der Sie am Zug sind, wird Ihnen stattdessen ein Überblick über Ihre aktuellsten Verhandlungen geboten.</p><p> </p><p><br></p><p>Unten im Cockpit werden die neuesten öffentlichen Angebote oder Gesuche angezeigt („Marktplatz“). So können Sie gleich sehen, was sich getan hat auf frutra seit Ihrem letzten Besuch.</p>"
+        },
+        {
+          "_styles": {
+            ".mbr-section-title, .mbr-section-subtitle": {
+              "text-align": "center"
+            },
+            "H3": {
+              "color": "#b8312f",
+              "font-size": "36px"
+            }
+          },
+          "_tags": [
+            "Theme"
+          ],
+          "_name": "header3",
+          "_anchor": "header3-2e",
+          "_params": {
+            "paddingTop": 1,
+            "paddingBottom": 1,
+            "bgColor": "#fff",
+            "showMeta": false
+          },
+          "title": "Wie ist das Benutzermenü aufgebaut?",
+          "meta": "By John Smith posted July 20, 2016"
+        },
+        {
+          "_tags": [
+            "Theme"
+          ],
+          "_name": "content1",
+          "_anchor": "content1-2f",
+          "_params": {
+            "paddingTop": 1,
+            "paddingBottom": 1,
+            "bgColor": "#fff"
+          },
+          "text": "&nbsp;Im Benutzermenü finden Sie alles Wichtige auf einen Blick.<div><br></div>"
+        },
+        {
+          "_styles": {
+            ".mbr-section-title, .mbr-section-subtitle": {
+              "text-align": "center"
+            },
+            "H3": {
+              "color": "#b8312f",
+              "font-size": "36px"
+            }
+          },
+          "_tags": [
+            "Theme"
+          ],
+          "_name": "header3",
+          "_anchor": "header3-2g",
+          "_params": {
+            "paddingTop": 1,
+            "paddingBottom": 1,
+            "bgColor": "#fff",
+            "showMeta": false
+          },
+          "title": "Was haben die Farben Blau und Grün zu bedeuten?",
+          "meta": "By John Smith posted July 20, 2016"
+        },
+        {
+          "_tags": [
+            "Theme"
+          ],
+          "_name": "content1",
+          "_anchor": "content1-2h",
+          "_params": {
+            "paddingTop": 1,
+            "paddingBottom": 1,
+            "bgColor": "#fff"
+          },
+          "text": "frutra ist so aufgebaut, dass Sie anhand der Farbe erkennen, welche Rolle Sie einnehmen: &nbsp;Als Verkäufer sehen Sie Grün, als Käufer ist für Sie Blau die richtige Farbe. So kommen Sie – hoffentlich – nie durcheinander."
+        },
+        {
+          "_styles": {
+            ".mbr-section-title, .mbr-section-subtitle": {
+              "text-align": "center"
+            },
+            "H3": {
+              "color": "#b8312f",
+              "font-size": "36px"
+            }
+          },
+          "_tags": [
+            "Theme"
+          ],
+          "_name": "header3",
+          "_anchor": "header3-2i",
+          "_params": {
+            "paddingTop": 1,
+            "paddingBottom": 1,
+            "bgColor": "#fff",
+            "showMeta": false
+          },
+          "title": "Wie verhandle ich auf frutra?",
+          "meta": "By John Smith posted July 20, 2016"
+        },
+        {
+          "_tags": [
+            "Theme"
+          ],
+          "_name": "content1",
+          "_anchor": "content1-2j",
+          "_params": {
+            "paddingTop": 1,
+            "paddingBottom": 1,
+            "bgColor": "#fff"
+          },
+          "text": "Das Verhandlungsprinzip bei frutra besteht aus zwei Grundsätzen: Es kann über alles verhandelt werden. Aber immer nur ein Verhandlungspartner ist am Zug. Es verhält sich also wie beim Schach oder auch wie beim Tennis oder Tischtennis. Es gibt einen User, der \"am Zug\" ist und einen, der warten muss, bis er wieder \"am Zug\" ist oder wieder den Ball hat. Dieses Prinzip verhindert, bei einer Verhandlung den Überblick zu verlieren oder mehrmals auf dasselbe Gesuch oder Angebot zu verhandeln.<div><br></div><div>Die Prinzipien schlagen sich auch im Aufbau der Seite nieder: Im Hauptmenü und im Cockpit gibt es die Rubrik \"Meine Entscheidung\": Das sind die Verhandlungen, bei denen Sie \"am Zug\" bin, also den nächsten Verhandlungsschritt machen können, aber nicht müssen. Auf frutra wird Ihnen immer angezeigt, ob Sie gerade in einer Verhandlung am Zug sind oder nicht.</div><div><br></div><div>Die einzelnen Verhandlungen haben jeweils ihr eigenes Gültigkeitsdatum. Das bedeutet, dass Sie immer bestimmen können, wie lange Sie sich an den jeweiligen Verhandlungsstand rechtlich gebunden halten. Ist das Gültigkeitsdatum abgelaufen, können Sie oder Ihr Verhandlungspartner nicht mehr \"annehmen\", also einen Vertrag zustandebringen, sonder nur noch weiterverhandeln, also quasi den Ball zurückgeben. So ist sichergestellt, dass kein \"ausgelaufener\" Verhandlungsstand zu einem Vertrag führt. &nbsp;</div>"
+        },
+        {
+          "_styles": {
+            ".mbr-section-title, .mbr-section-subtitle": {
+              "text-align": "center"
+            },
+            "H3": {
+              "color": "#b8312f",
+              "font-size": "36px"
+            }
+          },
+          "_tags": [
+            "Theme"
+          ],
+          "_name": "header3",
+          "_anchor": "header3-2k",
+          "_params": {
+            "paddingTop": 1,
+            "paddingBottom": 1,
+            "bgColor": "#fff",
+            "showMeta": false
+          },
+          "title": "Wie handle ich als Verkäufer auf frutra?",
+          "meta": "By John Smith posted July 20, 2016"
+        },
+        {
+          "_tags": [
+            "Theme"
+          ],
+          "_name": "content1",
+          "_anchor": "content1-2l",
+          "_params": {
+            "paddingTop": 1,
+            "paddingBottom": 1,
+            "bgColor": "#fff"
+          },
+          "text": "<b><span style=\"font-size: 1.07rem; line-height: 1.5;\">1. Angebot auf Marktplatz veröffentlichen</span><br></b><div><br></div><div>Sie können über den grünen Button \"Neues Angebot\" im Benutzermenü ein Angebot erstellen, das auf dem Marktplatz (Menüpunkt \"Angebote\") veröffentlicht wird. Es ist so allen übrigen Usern zugänglich. <b><i>Die Angebote bei frutra sind rechtlich verbindliche Angebote</i>. Bitte beachten Sie deshalb:&nbsp;</b>Die anderen User können Ihr Angebot sofort annehmen und damit ein rechtswirksamer Vertrag zustandebringen, ohne dass Sie nochmals zustimmen müssen. </div><div><br></div><div>Das jeweilige Angebot wird den anderen Usern auf dem Marktplatz solange angezeigt, wie Sie es unter dem Punkt \"gültig bis\" bei der Eingabe angegeben haben. Mit Ablauf des Gültigkeitsdatums wird das Angebot den anderen Usern und auch Ihnen nicht mehr angezeigt.&nbsp;</div><div><br></div><div>Im Regelfall werden die anderen User aber über Ihr Angebot verhandeln und es nicht wie eingestellt annehmen. Die sich daraus entwickelnden Vertragsverhandlungen&nbsp;<span style=\"font-size: 1.07rem; line-height: 1.5;\">werden Ihnen an drei Stellen angezeigt:</span></div><ul><li>Unter \"Mein frutra\" im Unterpunkt \"Meine Angebote\". Dort wird jedes Ihrer Angebote mit den dazugehörigen Verhandlungen mit anderen Usern daregstellt. So können Sie vergleichen, wer Ihnen den besten Preis für Ihre Ware bietet.</li><li>Unter \"Mein frutra\" im Unterpunkt \"Verhandlungen\". Dort wird Ihnen die einzelne Verhandlung mit dem jeweiligen Verhandlungspartner angezeigt.</li><li>Unter \"Meine Entscheidung\" im Hauptmenü. Dort wird die Verhandlung angezeigt, wenn Sie &nbsp;\"am Zug\" sind, also den nächsten Verhandlungsschritt machen kann.</li></ul><div><span style=\"font-size: 1.07rem; line-height: 1.5;\"><br></span></div><div><span style=\"font-size: 1.07rem; line-height: 1.5;\">b) Auf Gesuche anderer User verhandeln</span><br></div><div><br></div><div>Sie können aber auch quasi inkongnito als Verkäufer auf frutra unterwegs sein. Dazu können Sie im Menüpunkt \"Gesuche\" erfahren, welchen Grundstoff andere User konkret suchen. Sie können dann auf deren Gesuche Angebote machen. Dazu rufen Sie die Detailansicht des jeweiligen Gesuchs auf und drücken den Button \"verhandeln\". Dann kommt die von den Angeboten gewohnte Eingabemaske.</div><div><br></div>"
+        },
+        {
+          "_styles": {
+            ".mbr-section-title, .mbr-section-subtitle": {
+              "text-align": "center"
+            },
+            "H3": {
+              "color": "#b8312f",
+              "font-size": "36px"
+            }
+          },
+          "_tags": [
+            "Theme"
+          ],
+          "_name": "header3",
+          "_anchor": "header3-2m",
+          "_params": {
+            "paddingTop": 1,
+            "paddingBottom": 1,
+            "bgColor": "#fff",
+            "showMeta": false
+          },
+          "title": "Wie handle ich als Käufer auf frutra?",
+          "meta": "By John Smith posted July 20, 2016"
+        },
+        {
+          "_tags": [
+            "Theme"
+          ],
+          "_name": "content1",
+          "_anchor": "content1-2n",
+          "_params": {
+            "paddingTop": 1,
+            "paddingBottom": 1,
+            "bgColor": "#fff"
+          },
+          "text": "<b>1. Gesuch auf Marktplatz veröffentlichen</b><div><br></div><div>Spiegelbildlich zu Ihren Handlungsmöglichkeiten als Verkäufer können Sie als Käufer über den blauen Button \"Neues Gesuch\" im Benutzermenü ein Gesuch erstellen. Dieses wird das auf dem Marktplatz (Menüpunkt \"Gesuche\"\") veröffentlicht und ist damit allen übrigen Usern zugänglich. Das Gesuch ist rechtlich gesehen ein Aufforderung an die übrigen User, Ihnen darauf Angebote zu unterbreiten (sogenannte \"invitatio ad offerendum\"). Das bedeutet, dass die übrigen User nicht sofort einen Vertrag zustande bringen können auf Ihr Gesuch hin, sondern dass sie Ihnen erst ein individuelles Angebot unterbreiten müssen, also eine Verhandlung eröffnen. Dies können Sie dann annehmen oder auch nicht. Es ist immer Ihre Entscheidung!</div><div><br></div><div>Die Verhandlungen auf Ihr Gesuch werden an drei Stellen auf frutra angezeigt – wie bei den Angeboten:</div><div><br></div><ul><li><span style=\"font-size: 1.07rem; line-height: 1.5;\">Unter \"Mein frutra\" im Unterpunkt \"Meine Gesuche\". Dort wird jedes Ihrer Gesuche mit den dazugehörigen Verhandlungen mit den dazugehörigen Verhandlungen daregstellt. So können Sie vergleichen, wer Ihnen das attraktivste Angebot macht.&nbsp;</span><br></li><li>Unter \"Mein frutra\" im Unterpunkt \"Verhandlungen\". Dort wird die einzelene Verhandlung mit dem jeweiligen Verhandlungspartner angezeigt, unabhängig davon, ob Sie in der Verhandlung gerade \"am Zug\" sind oder nicht.</li><li>Unter \"Meine Entscheidung\" im Hauptmenü. Dort wird die Verhandlung angezeigt, wenn Sie \"am Zug\" sind, also den nächsten Verhandlungsschritt machen können.</li></ul><div><br></div><div><b><span style=\"font-size: 1.07rem; line-height: 1.5;\">2. Auf Angebote anderer User auf dem Marktplatz verhandeln</span><br></b></div><div>Ebenfalls spiegelbildlich zu den Möglichkeiten als Verkäufer können Sie im Menüpunkt \"Angebote\" erfahren, was andere User konkret an Grundstoffen anbieten und auf deren jeweiliges Angebot verhandeln. Dazu rufen Sie die Detailansicht des jeweiligen Angebots auf und drücken Sie den Button \"verhandeln\". &nbsp;</div><div><br></div>"
+        },
+        {
+          "_styles": {
+            ".mbr-section-title, .mbr-section-subtitle": {
+              "text-align": "center"
+            },
+            "H3": {
+              "color": "#b8312f",
+              "font-size": "36px"
+            }
+          },
+          "_tags": [
+            "Theme"
+          ],
+          "_name": "header3",
+          "_anchor": "header3-2o",
+          "_params": {
+            "paddingTop": 1,
+            "paddingBottom": 1,
+            "bgColor": "#fff",
+            "showMeta": false
+          },
+          "title": "Was ist frutraProtect?",
+          "meta": "By John Smith posted July 20, 2016"
+        },
+        {
+          "_tags": [
+            "Theme"
+          ],
+          "_name": "content1",
+          "_anchor": "content1-2p",
+          "_params": {
+            "paddingTop": 1,
+            "paddingBottom": 1,
+            "bgColor": "#fff"
+          },
+          "text": "Damit Sie als Benutzer möglichst sorglos auf frutra handeln können, haben wir ein neuartiges Schutzsystem entwickelt. Die Grundidee besteht darin, Sie als Verkäufer davor zu beschützen, mehr Ware zu verkaufen, als Sie haben – und Sie als Käufer davor, mehr Ware einzukaufen, als Sie brauchen oder haben wollen. Mit frutraProtect setzen Sie sich ein Mengenlimit, das in keiner Verhandlung überschritten werden kann, ohne dass Sie zustimmen.&nbsp;"
+        },
+        {
+          "_styles": {
+            ".mbr-section-title, .mbr-section-subtitle": {
+              "text-align": "center"
+            },
+            "H3": {
+              "color": "#b8312f",
+              "font-size": "36px"
+            }
+          },
+          "_tags": [
+            "Theme"
+          ],
+          "_name": "header3",
+          "_anchor": "header3-2q",
+          "_params": {
+            "paddingTop": 1,
+            "paddingBottom": 1,
+            "bgColor": "#fff",
+            "showMeta": false
+          },
+          "title": "Wie funktioniert frutraProtect?",
+          "meta": "By John Smith posted July 20, 2016"
+        },
+        {
+          "_tags": [
+            "Theme"
+          ],
+          "_name": "content1",
+          "_anchor": "content1-2r",
+          "_params": {
+            "paddingTop": 1,
+            "paddingBottom": 1,
+            "bgColor": "#fff"
+          },
+          "text": "<p>Damit Sie frutraProtect verwenden können, müssen Sie frutra erst sagen, wie viel Ware Sie zu verkaufen haben oder wie viel Ware Sie kaufen wollen. Als Verkäufer müssen Sie dazu ein Angebot auf dem Marktplatz einstellen – und als Käufer ein Gesuch. Den Rest erledigt frutraProtect für Sie. Das heißt aber umgekehrt auch: Ohne ein entsprechendes (gültiges!) Angebot auf dem Marktplatz kann frutraProtect Sie als Verkäufer oder Gesuch &nbsp; &nbsp;</p><p><br></p><p>frutraProtect wird an folgendem Beispiel deutlich:</p><p><br></p><div><span style=\"font-size: 1.07rem; line-height: 1.5;\">a) Andere Benutzer verhandeln auf ein Angebot oder Gesuch von Ihnen</span><br></div><div><br></div><div><br></div><div>Fruchtsaft Anton stellt ein Angebot über 100.000 Liter Apfelsaft ab Presse auf dem Marktplatz ein (Menüpunkt \"Angebote\"). Fünf andere Firmen verhandeln auf dieses Angebot. In vier der fünf Verhandlungen wird über die volle Menge verhandelt, in der fünften dagegen nur über 50.000 Liter, der Preis ist jedoch attraktiv. In dieser Verhandlung kommt es zu einem Vertragsabschluss. frutraProtect reduziert automatisch die Menge des Angebots auf dem Marktplatz auf 50.000 Liter. Die übrigen vier Verhandlungen laufen zunächst unverändert über 100.000 Liter weiter.</div><div><br></div><div>Wenn Sie in der einzelnen Verhandlung am Zug sind, bekommen Sie eine Systemmeldung, die Sie darüber informiert, dass sich die ursprüngliche Angebotsmenge von 100.000 Litern durch einen Vertragsabschluss auf 50.000 Liter reduziert hat. Sie können dann entscheiden, ob Sie die Verhandlungsmenge auf 50.000 Liter anpassen oder das Verhandlungslimit wieder auf 100.000 Liter hochsetzen, wenn Sie noch zusätzliche Ware im Tank haben. Wenn Sie das Verhandlungslimit hochsetzen, wird aber auch Ihr Angebot auf dem Marktplatz wieder auf 100.000 Liter hochgesetzt. Bitte bedenken Sie das! &nbsp;&nbsp;</div><div><br></div><div>Wenn Sie nicht am Zug sind in den einzelnen Verhandlungen nicht am Zug sind, greift frutraProtect ein: Da die Verhandlungsmenge von 100.000 Litern über Ihrem aktuellen Verhandlungslimit von 50.000 Litern liegt, kann der Verhandlungspartner nicht mehr annehmen. Dadurch sind Sie vor einem für Sie unter Umständen nicht erfüllbaren Vertragsabschluss geschützt. Vielmehr wird der Verhandlungspartner vom System darüber informiert, dass Ihr Verhandlungslimit momentan überschritten ist und er deswegen keinen Vertrag abschließen kann, obwohl er am Zug ist. Er kann jedoch „verhandeln“, also den Ball wieder an Sie zurückspielen. Dann haben Sie es wieder in der Hand zu entscheiden, ob Sie den Vertrag zustande bringen wollen oder nicht.</div><div><br></div><div>b) Sie verhandeln auf Angebote oder Gesuche anderer User</div><div><br></div><div>Um denselben Schutz durch frutraProtect zu erreichen, wenn Sie ich auf das Angebot oder Gesuch eines anderen Users verhandeln, müssen Sie dem System sagen, mit welchem Ihrer Angebote oder Gesuche frutraProtect die jeweilige Verhandlung verknüpfen soll. Zur Klarstellung: frutraProtect kann Sie nur schützen, wenn Sie ein passendes öffentliches Angebot oder Gesuch auf dem Marktplatz veröffentlicht haben.</div><div><br></div><div>Beispiel:</div><div><br></div><div>Die Firma Fruchtsaft Anton stellt das Angebot 123 über 100.000 Liter Apfelsaft ab Presse auf dem Marktplatz (\"Angebote\") ein. Fünf andere Firmen verhandeln auf dieses Angebot. Gleichzeitig verhandelt Anton auf passende Gesuche von anderen Usern. Wenn er erreichen will, dass frutraProtect auch diese Verhandlungen über die Gesuche anderer User überwacht, muss er er bei der jeweiligen Verhandlung als Bezugsmenge von frutraProtect das Angebot 123 angeben.</div><div><br></div><div>frutraProtect sorgt dann dafür, dass die Menge des Angebots 123 entsprechend reduziert wird, wenn es in den Verhandlungen über die Gesuche anderer User zu einem Vertragsabschluss kommt.</div><div><br></div><div><br></div><p></p>"
+        },
+        {
+          "_styles": {
+            ".mbr-section-title, .mbr-section-subtitle": {
+              "text-align": "center"
+            },
+            "H3": {
+              "color": "#b8312f",
+              "font-size": "36px"
+            }
+          },
+          "_tags": [
+            "Theme"
+          ],
+          "_name": "header3",
+          "_anchor": "header3-2s",
+          "_params": {
+            "paddingTop": 1,
+            "paddingBottom": 1,
+            "bgColor": "#fff",
+            "showMeta": false
+          },
+          "title": "&nbsp;Was sind Incoterms? Welche Incoterms sind für mich als Verkäufer günstig? Und welche für mich als Käufer?",
+          "meta": "By John Smith posted July 20, 2016"
+        },
+        {
+          "_tags": [
+            "Theme"
+          ],
+          "_name": "content1",
+          "_anchor": "content1-2t",
+          "_params": {
+            "paddingTop": 1,
+            "paddingBottom": 1,
+            "bgColor": "#fff"
+          },
+          "text": "<p>Bei den Incoterms® 2010 handelt es sich um weltweit anerkannte, einheitliche Vertrags- und Lieferbedingungen, die den Parteien eines Kaufvertrages eine standardisierte Abwicklung im internationalen, aber auch nationalen Handelsgeschäft ermöglichen. Incoterms haben den Vorteil, dass sie sowohl für den nationalen wie internationalen Handel verwendet werden können. Im Gegensatz zu Klauseln wie \"ab Hof\" oder \"frei Haus\" sind sie außerdem rechtssicher. Denn bei \"ab Hof\" oder \"frei Haus\" stellt sich im Streitfall immer die Frage, was damit genau gemeint ist und welche Regelung hinsichtlich Transportkosten und Gefahrübergang (Verlustgefahr, Verschlechterung) getroffen werden sollte. Außerdem passen die Incoterms für alle Transportarten, also auch für Schiffstransporte, die später relevant werden, wenn die Seite international wird.</p><p><br></p><p>Um die Sache für den Benutzer zu vereinfachen, ist bei Angeboten die für den Verkäufer günstige Klausel \"FCA – frei Frachtführer\" voreingestellt. Diese entspricht praktisch der Klausel \"ab Hof\" und bedeutet, dass der Verkäufer die Ware lediglich verladen muss und alles andere Sache des Käufers ist.</p><p><br></p><p>Bei den Gesuchen wiederum ist die Klausel \"DAP – geliefert benannter Ort\" voreingestellt, was der bekannten Klausel \"frei Haus\" entspricht. Das heißt, dass der Verkäufer den Transport bezahlen muss und die Gefahr erst am Lieferort auf den Käufer übergeht, also auf dem Hof des Käufers nach dem Abladen.&nbsp;</p>"
+        }
+      ]
+    }
+  }
+}
