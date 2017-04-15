@@ -1,6 +1,6 @@
 {
   "settings": {
-    "currentPage": "Überblick.html",
+    "currentPage": "Hilfe.html",
     "name": "frutra",
     "theme": {
       "name": "mobirise3",
@@ -22,7 +22,7 @@
       }
     },
     "versionFirst": "3.12.1",
-    "uniqCompNum": 111,
+    "uniqCompNum": 112,
     "versionPublish": "3.12.1",
     "favicon": "",
     "noImageResize": "",
@@ -946,12 +946,12 @@
           },
           "_params": {
             "autoplay": true,
-            "paddingTop": 3,
+            "paddingTop": "3",
             "paddingBottom": 3,
             "timeout": "9",
             "slides": [
               {
-                "active": true,
+                "active": false,
                 "image": "@PROJECT_PATH@/assets/images/514990643-2000x1123.png",
                 "playVideo": false,
                 "videoUrl": "https://www.youtube.com/watch?v=uNCr7NdOJgw",
@@ -979,7 +979,7 @@
                 "buttons": "<a data-app-btn=\"true\" class=\"btn btn-lg btn-success\" href=\"https://mobirise.com\" data-toolbar=\"-mbrBtnMove\">ANMELDEN</a> <a data-app-btn=\"true\" class=\"btn btn-lg btn-white btn-white-outline\" href=\"https://mobirise.com\" data-toolbar=\"-mbrBtnMove\">REGISTRIEREN</a>"
               },
               {
-                "active": false,
+                "active": true,
                 "image": "@PROJECT_PATH@/assets/images/611088150-2000x1333.png",
                 "playVideo": false,
                 "videoUrl": "https://www.youtube.com/watch?v=uNCr7NdOJgw",
@@ -1915,6 +1915,11 @@
             "Theme"
           ],
           "_name": "content1",
+          "_styles": {
+            "DIV": {
+              "font-size": "16px"
+            }
+          },
           "_anchor": "content1-25",
           "_params": {
             "paddingTop": 1,
@@ -1953,6 +1958,11 @@
             "Theme"
           ],
           "_name": "content1",
+          "_styles": {
+            "DIV": {
+              "font-size": "16px"
+            }
+          },
           "_anchor": "content1-28",
           "_params": {
             "paddingTop": 1,
@@ -2111,6 +2121,11 @@
             "Theme"
           ],
           "_name": "content1",
+          "_styles": {
+            "DIV": {
+              "font-size": "16px"
+            }
+          },
           "_anchor": "content1-2b",
           "_params": {
             "paddingTop": 1,
@@ -2148,6 +2163,11 @@
             "Theme"
           ],
           "_name": "content1",
+          "_styles": {
+            "P": {
+              "font-size": "16px"
+            }
+          },
           "_anchor": "content1-2d",
           "_params": {
             "paddingTop": 1,
@@ -2185,6 +2205,11 @@
             "Theme"
           ],
           "_name": "content1",
+          "_styles": {
+            "DIV": {
+              "font-size": "16px"
+            }
+          },
           "_anchor": "content1-2f",
           "_params": {
             "paddingTop": 1,
@@ -2222,6 +2247,11 @@
             "Theme"
           ],
           "_name": "content1",
+          "_styles": {
+            "DIV": {
+              "font-size": "16px"
+            }
+          },
           "_anchor": "content1-2h",
           "_params": {
             "paddingTop": 1,
@@ -2259,6 +2289,11 @@
             "Theme"
           ],
           "_name": "content1",
+          "_styles": {
+            "DIV": {
+              "font-size": "16px"
+            }
+          },
           "_anchor": "content1-2j",
           "_params": {
             "paddingTop": 1,
@@ -2296,6 +2331,14 @@
             "Theme"
           ],
           "_name": "content1",
+          "_styles": {
+            "SPAN": {
+              "font-size": "16px"
+            },
+            "DIV": {
+              "font-size": "16px"
+            }
+          },
           "_anchor": "content1-2l",
           "_params": {
             "paddingTop": 1,
@@ -2333,6 +2376,14 @@
             "Theme"
           ],
           "_name": "content1",
+          "_styles": {
+            "B": {
+              "font-size": "16px"
+            },
+            "DIV": {
+              "font-size": "16px"
+            }
+          },
           "_anchor": "content1-2n",
           "_params": {
             "paddingTop": 1,
@@ -2370,6 +2421,11 @@
             "Theme"
           ],
           "_name": "content1",
+          "_styles": {
+            "DIV": {
+              "font-size": "16px"
+            }
+          },
           "_anchor": "content1-2p",
           "_params": {
             "paddingTop": 1,
@@ -2407,13 +2463,18 @@
             "Theme"
           ],
           "_name": "content1",
+          "_styles": {
+            "P": {
+              "font-size": "16px"
+            }
+          },
           "_anchor": "content1-2r",
           "_params": {
             "paddingTop": 1,
             "paddingBottom": 1,
             "bgColor": "#fff"
           },
-          "text": "<p>Damit Sie frutraProtect verwenden können, müssen Sie frutra erst sagen, wie viel Ware Sie zu verkaufen haben oder wie viel Ware Sie kaufen wollen. Als Verkäufer müssen Sie dazu ein Angebot auf dem Marktplatz einstellen – und als Käufer ein Gesuch. Den Rest erledigt frutraProtect für Sie. Das heißt aber umgekehrt auch: Ohne ein entsprechendes (gültiges!) Angebot auf dem Marktplatz kann frutraProtect Sie als Verkäufer oder Gesuch &nbsp; &nbsp;</p><p><br></p><p>frutraProtect wird an folgendem Beispiel deutlich:</p><p><br></p><div><span style=\"font-size: 1.07rem; line-height: 1.5;\">a) Andere Benutzer verhandeln auf ein Angebot oder Gesuch von Ihnen</span><br></div><div><br></div><div><br></div><div>Fruchtsaft Anton stellt ein Angebot über 100.000 Liter Apfelsaft ab Presse auf dem Marktplatz ein (Menüpunkt \"Angebote\"). Fünf andere Firmen verhandeln auf dieses Angebot. In vier der fünf Verhandlungen wird über die volle Menge verhandelt, in der fünften dagegen nur über 50.000 Liter, der Preis ist jedoch attraktiv. In dieser Verhandlung kommt es zu einem Vertragsabschluss. frutraProtect reduziert automatisch die Menge des Angebots auf dem Marktplatz auf 50.000 Liter. Die übrigen vier Verhandlungen laufen zunächst unverändert über 100.000 Liter weiter.</div><div><br></div><div>Wenn Sie in der einzelnen Verhandlung am Zug sind, bekommen Sie eine Systemmeldung, die Sie darüber informiert, dass sich die ursprüngliche Angebotsmenge von 100.000 Litern durch einen Vertragsabschluss auf 50.000 Liter reduziert hat. Sie können dann entscheiden, ob Sie die Verhandlungsmenge auf 50.000 Liter anpassen oder das Verhandlungslimit wieder auf 100.000 Liter hochsetzen, wenn Sie noch zusätzliche Ware im Tank haben. Wenn Sie das Verhandlungslimit hochsetzen, wird aber auch Ihr Angebot auf dem Marktplatz wieder auf 100.000 Liter hochgesetzt. Bitte bedenken Sie das! &nbsp;&nbsp;</div><div><br></div><div>Wenn Sie nicht am Zug sind in den einzelnen Verhandlungen nicht am Zug sind, greift frutraProtect ein: Da die Verhandlungsmenge von 100.000 Litern über Ihrem aktuellen Verhandlungslimit von 50.000 Litern liegt, kann der Verhandlungspartner nicht mehr annehmen. Dadurch sind Sie vor einem für Sie unter Umständen nicht erfüllbaren Vertragsabschluss geschützt. Vielmehr wird der Verhandlungspartner vom System darüber informiert, dass Ihr Verhandlungslimit momentan überschritten ist und er deswegen keinen Vertrag abschließen kann, obwohl er am Zug ist. Er kann jedoch „verhandeln“, also den Ball wieder an Sie zurückspielen. Dann haben Sie es wieder in der Hand zu entscheiden, ob Sie den Vertrag zustande bringen wollen oder nicht.</div><div><br></div><div>b) Sie verhandeln auf Angebote oder Gesuche anderer User</div><div><br></div><div>Um denselben Schutz durch frutraProtect zu erreichen, wenn Sie ich auf das Angebot oder Gesuch eines anderen Users verhandeln, müssen Sie dem System sagen, mit welchem Ihrer Angebote oder Gesuche frutraProtect die jeweilige Verhandlung verknüpfen soll. Zur Klarstellung: frutraProtect kann Sie nur schützen, wenn Sie ein passendes öffentliches Angebot oder Gesuch auf dem Marktplatz veröffentlicht haben.</div><div><br></div><div>Beispiel:</div><div><br></div><div>Die Firma Fruchtsaft Anton stellt das Angebot 123 über 100.000 Liter Apfelsaft ab Presse auf dem Marktplatz (\"Angebote\") ein. Fünf andere Firmen verhandeln auf dieses Angebot. Gleichzeitig verhandelt Anton auf passende Gesuche von anderen Usern. Wenn er erreichen will, dass frutraProtect auch diese Verhandlungen über die Gesuche anderer User überwacht, muss er er bei der jeweiligen Verhandlung als Bezugsmenge von frutraProtect das Angebot 123 angeben.</div><div><br></div><div>frutraProtect sorgt dann dafür, dass die Menge des Angebots 123 entsprechend reduziert wird, wenn es in den Verhandlungen über die Gesuche anderer User zu einem Vertragsabschluss kommt.</div><div><br></div><div><br></div><p></p>"
+          "text": "<p>Damit Sie frutraProtect verwenden können, müssen Sie frutra erst sagen, wie viel Ware Sie zu verkaufen haben oder wie viel Ware Sie kaufen wollen. Als Verkäufer müssen Sie dazu ein Angebot auf dem Marktplatz einstellen – und als Käufer ein Gesuch. Den Rest erledigt frutraProtect für Sie. Das heißt aber umgekehrt auch: Ohne ein entsprechendes Angebot auf dem Marktplatz kann frutraProtect Sie als Verkäufer oder ohne Gesuch als Käufer nicht schützen. &nbsp; &nbsp;</p><p><br></p><p><b style=\"font-size: 1.07rem; line-height: 1.5;\"><span style=\"font-size: 1.07rem; line-height: 1.5;\">1. Andere Benutzer verhandeln auf ein Angebot oder Gesuch von Ihnen</span></b><br></p><div><span style=\"font-size: 1.07rem; line-height: 1.5;\">Fruchtsaft Anton stellt ein Angebot über 100.000 Liter Apfelsaft ab Presse auf dem Marktplatz ein (Menüpunkt \"Angebote\"). Fünf andere Firmen verhandeln auf dieses Angebot. In vier der fünf Verhandlungen wird über die volle Menge verhandelt, in der fünften dagegen nur über 50.000 Liter, der Preis ist jedoch attraktiv. In dieser Verhandlung kommt es zu einem Vertragsabschluss. frutraProtect reduziert automatisch die Menge des Angebots auf dem Marktplatz auf 50.000 Liter. Die übrigen vier Verhandlungen laufen zunächst unverändert über 100.000 Liter weiter.</span><br></div><div><br></div><div>Wenn Sie in der einzelnen Verhandlung am Zug sind, bekommen Sie eine Systemmeldung, die Sie darüber informiert, dass sich die ursprüngliche Angebotsmenge von 100.000 Litern durch einen Vertragsabschluss auf 50.000 Liter reduziert hat. Sie können dann entscheiden, ob Sie die Verhandlungsmenge auf 50.000 Liter anpassen oder das Verhandlungslimit wieder auf 100.000 Liter hochsetzen, wenn Sie noch zusätzliche Ware im Tank haben. Wenn Sie das Verhandlungslimit hochsetzen, wird aber auch Ihr Angebot auf dem Marktplatz wieder auf 100.000 Liter hochgesetzt. Bitte bedenken Sie das! &nbsp;&nbsp;</div><div><br></div><div>Wenn Sie nicht am Zug sind in den einzelnen Verhandlungen nicht am Zug sind, greift frutraProtect ein: Da die Verhandlungsmenge von 100.000 Litern über Ihrem aktuellen Verhandlungslimit von 50.000 Litern liegt, kann der Verhandlungspartner nicht mehr annehmen. Dadurch sind Sie vor einem für Sie unter Umständen nicht erfüllbaren Vertragsabschluss geschützt. Vielmehr wird der Verhandlungspartner vom System darüber informiert, dass Ihr Verhandlungslimit momentan überschritten ist und er deswegen keinen Vertrag abschließen kann, obwohl er am Zug ist. Er kann jedoch „verhandeln“, also den Ball wieder an Sie zurückspielen. Dann haben Sie es wieder in der Hand zu entscheiden, ob Sie den Vertrag zustande bringen wollen oder nicht.</div><div><span style=\"font-size: 1.07rem; line-height: 1.5;\"><br></span></div><div><b><span style=\"font-size: 1.07rem; line-height: 1.5;\">2. Sie verhandeln auf Angebote oder Gesuche anderer User</span><br></b></div><div><span style=\"font-size: 1.07rem; line-height: 1.5;\">Um denselben Schutz durch frutraProtect zu erreichen, wenn Sie ich auf das Angebot oder Gesuch eines anderen Users verhandeln, müssen Sie dem System sagen, mit welchem Ihrer Angebote oder Gesuche frutraProtect die jeweilige Verhandlung verknüpfen soll. Zur Klarstellung: frutraProtect kann Sie nur schützen, wenn Sie ein passendes öffentliches Angebot oder Gesuch auf dem Marktplatz veröffentlicht haben.</span><br></div><div><br></div><div>Beispiel:</div><div><span style=\"font-size: 1.07rem; line-height: 1.5;\"><br></span></div><div><span style=\"font-size: 1.07rem; line-height: 1.5;\">Die Firma Fruchtsaft Anton stellt das Angebot 123 über 100.000 Liter Apfelsaft ab Presse auf dem Marktplatz (\"Angebote\") ein. Fünf andere Firmen verhandeln auf dieses Angebot. Gleichzeitig verhandelt Anton auf passende Gesuche von anderen Usern. Wenn er erreichen will, dass frutraProtect auch diese Verhandlungen über die Gesuche anderer User überwacht, muss er er bei der jeweiligen Verhandlung als Bezugsmenge von frutraProtect das Angebot 123 angeben.</span><br></div><div><br></div><div>frutraProtect sorgt dann dafür, dass die Menge des Angebots 123 entsprechend reduziert wird, wenn es in den Verhandlungen über die Gesuche anderer User zu einem Vertragsabschluss kommt.</div><div><br></div><div><br></div><p></p>"
         },
         {
           "_styles": {
@@ -2444,6 +2505,11 @@
             "Theme"
           ],
           "_name": "content1",
+          "_styles": {
+            "P": {
+              "font-size": "16px"
+            }
+          },
           "_anchor": "content1-2t",
           "_params": {
             "paddingTop": 1,
